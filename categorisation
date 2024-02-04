@@ -1,0 +1,2223 @@
+Unraveling Tendencies In Augmented Instruments at NIME: A Systematic Review
+
+Categorisation of Eligible Papers
+
+~~
+
+2001 
+0 results
+
+~~
+
+2002 
+2 results / 0 relevant
+
+~~
+
+2003 
+3 results / 0 relevant
+
+~~
+
+2004 
+5 results / 0 relevant
+
+~~
+
+2005 
+5 results / 2 relevant
+
+@inproceedings{Caceres2005,
+  author = {C\'{a}ceres, Juan Pablo and Mysore, Gautham J. and Trevi\~{n}o, Jeffrey},
+  title = {{SC}UBA: The Self-Contained Unified Bass Augmenter},
+  pages = {38--41},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2005},
+  address = {Vancouver, BC, Canada},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176719},
+  url = {http://www.nime.org/proceedings/2005/nime2005_038.pdf},
+  keywords = {Interactive music, electro-acoustic musical instruments, musical instrument design, human computer interface, signal processing, Open Sound Control (OSC) },
+  abstract = {The Self-Contained Unified Bass Augmenter (SCUBA) is a new augmentative OSC (Open Sound Control) [5] controller for the tuba. SCUBA adds new expressive possibilities to the existing tuba interface through onboard sensors. These sensors provide continuous and discrete user-controlled parametric data to be mapped at will to signal processing parameters, virtual instrument control parameters, sound playback, and various other functions. In its current manifestation, control data is mapped to change the processing of the instrument's natural sound in Pd (Pure Data) [3]. SCUBA preserves the unity of the solo instrument interface by acoustically mixing direct and processed sound in the instrument's bell via mounted satellite speakers, which are driven by a subwoofer below the performer's chair. The end result augments the existing interface while preserving its original unity and functionality. }
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Silva2005,
+  author = {Silva, Andrey R. and Wanderley, Marcelo M. and Scavone, Gary},
+  title = {On the Use of Flute Air Jet as A Musical Control Variable},
+  pages = {105--108},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2005},
+  address = {Vancouver, BC, Canada},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176814},
+  url = {http://www.nime.org/proceedings/2005/nime2005_105.pdf},
+  keywords = {Embouchure, air pressure sensors, hot wires, mapping, augmented flute. },
+  abstract = {This paper aims to present some perspectives on mappingembouchure gestures of flute players and their use as controlvariables. For this purpose, we have analyzed several typesof sensors, in terms of sensitivity, dimension, accuracy andprice, which can be used to implement a system capable ofmapping embouchure parameters such as air jet velocity andair jet direction. Finally, we describe the implementationof a sensor system used to map embouchure gestures of aclassical Boehm flute.}
+
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: electronicsound
+}
+
+~~
+
+2006 
+7 results / 6 relevant
+
+@inproceedings{Lemouton2006,
+  author = {Lemouton, Serge and Stroppa, Marco and Sluchin, Benny},
+  title = {Using the Augmented Trombone in "I will not kiss your f.ing flag"},
+  pages = {304--307},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176963},
+  url = {http://www.nime.org/proceedings/2006/nime2006_304.pdf},
+  keywords = {augmented instrument,chamber electronics,computer,interaction,musical motivation,performer,trombone},
+  abstract = {This paper deals with the first musical usage of anexperimental system dedicated to the optical detection ofthe position of a trombone's slide.}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Schiesser2006,
+  author = {Schiesser, S\'{e}bastien and Traube, Caroline},
+  title = {On Making and Playing an Electronically-augmented Saxophone},
+  pages = {308--313},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177001},
+  url = {http://www.nime.org/proceedings/2006/nime2006_308.pdf},
+  keywords = {saxophone, augmented instrument, live electronics, perfor- mance, gestural control }
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Beilharz2006,
+  author = {Beilharz, Kirsty and Jakovich, Joanne and Ferguson, Sam},
+  title = {Hyper-shaku (Border-crossing): Towards the Multi-modal Gesture-controlled Hyper-Instrument},
+  pages = {352--357},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176867},
+  url = {http://www.nime.org/proceedings/2006/nime2006_352.pdf},
+  keywords = {Gesture-controllers, sonification, hyper-instrument },
+  abstract = {Hyper-shaku (Border-Crossing) is an interactive sensor environment that uses motion sensors to trigger immediate responses and generative processes augmenting the Japanese bamboo shakuhachi in both the auditory and visual domain. The latter differentiates this process from many hyper-instruments by building a performance of visual design as well as electronic music on top of the acoustic performance. It utilizes a combination of computer vision and wireless sensing technologies conflated from preceding works. This paper outlines the use of gesture in these preparatory sound and audio-visual performative, installation and sonification works, leading to a description of the Hyper-shaku environment integrating sonification and generative elements. }
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{MakiPatola2006,
+  author = {Maki-Patola, Teemu and H\''{a}m\''{a}l\''{a}inen, Perttu and Kanerva, Aki},
+  title = {The Augmented Djembe Drum --- Sculpting Rhythms},
+  pages = {364--369},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176971},
+  url = {http://www.nime.org/proceedings/2006/nime2006_364.pdf},
+  keywords = {1,2,2 9,3897,39,425,43,7,8,9}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Bevilacqua2006,
+  author = {Bevilacqua, Fr\'{e}d\'{e}ric and Rasamimanana, Nicolas and Fl\'{e}ty, Emmanuel and Lemouton, Serge and Baschet, Florence},
+  title = {The Augmented Violin Project: Research, Composition and Performance Report},
+  pages = {402--406},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176871},
+  url = {http://www.nime.org/proceedings/2006/nime2006_402.pdf}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Freed2006a,
+  author = {Freed, Adrian and Wessel, David and Zbyszynski, Michael and Uitti, Frances M.},
+  title = {Augmenting the Cello},
+  pages = {409--413},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2006},
+  address = {Paris, France},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176905},
+  url = {http://www.nime.org/proceedings/2006/nime2006_409.pdf},
+  keywords = {Cello, chordophone, FSR, Rotary Absolute Position Encoder, Double Bowing, triple stops, double stops, convolution. },
+  abstract = {Software and hardware enhancements to an electric 6-stringcello are described with a focus on a new mechanical tuningdevice, a novel rotary sensor for bow interaction and controlstrategies to leverage a suite of polyphonic soundprocessing effects.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, realsound
+
+~~
+
+2007 
+6 results / 3 relevant
+
+@inproceedings{Dannenberg2007,
+  author = {Dannenberg, Roger B.},
+  title = {New Interfaces for Popular Music Performance},
+  pages = {130--135},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2007},
+  address = {New York City, NY, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177081},
+  url = {http://www.nime.org/proceedings/2007/nime2007_130.pdf},
+  keywords = {accompaniment,beat,conducting,intelligent,music synchronization,nime07,synthetic performer,tracking,virtual orchestra},
+  abstract = {Augmenting performances of live popular music with computer systems poses many new challenges. Here, "popular music" is taken to mean music with a mostly steady tempo, some improvisational elements, and largely predetermined melodies, harmonies, and other parts. The overall problem is studied by developing a framework consisting of constraints and subproblems that any solution should address. These problems include beat acquisition, beat phase, score location, sound synthesis, data preparation, and adaptation. A prototype system is described that offers a set of solutions to the problems posed by the framework, and future work is suggested. }
+}
+
+Performer type: unspecified
+Instrument type: acoustic, electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Aimi2007,
+  author = {Aimi, Roberto},
+  title = {Percussion Instruments Using Realtime Convolution : Physical Controllers},
+  pages = {154--159},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2007},
+  address = {New York City, NY, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177033},
+  url = {http://www.nime.org/proceedings/2007/nime2007_154.pdf},
+  keywords = {Musical controllers, extended acoustic instruments },
+  abstract = {This paper describes several example hybrid acoustic / electronic percussion instruments using realtime convolution toaugment and modify the apparent acoustics of damped physical objects. Examples of cymbal, frame drum, practice pad,brush, and bass drum controllers are described.}
+
+Performer type: solo 
+Instrument type: acoustic, electric
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Lee2007a,
+  author = {Lee, Eric and Wolf, Marius and Jansen, Yvonne and Borchers, Jan},
+  title = {REXband : A Multi-User Interactive Exhibit for Exploring Medieval Music},
+  pages = {172--177},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2007},
+  address = {New York City, NY, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177163},
+  url = {http://www.nime.org/proceedings/2007/nime2007_172.pdf},
+  keywords = {interactive music exhibits, medieval music, augmented instruments, e-learning, education },
+  abstract = {We present REXband, an interactive music exhibit for collaborative improvisation to medieval music. This audio-only system consists of three digitally augmented medieval instrument replicas: thehurdy gurdy, harp, and frame drum. The instruments communicate with software that provides users with both musical support and feedback on their performance using a "virtual audience" set in a medieval tavern. REXband builds upon previous work in interactive music exhibits by incorporating aspects of e-learning to educate, in addition to interaction design patterns to entertain; care was also taken to ensure historic authenticity. Feedback from user testing in both controlled (laboratory) and public (museum) environments has been extremely positive. REXband is part of the Regensburg Experience, an exhibition scheduled to open in July 2007 to showcase the rich history of Regensburg, Germany.}
+
+Performer type: ensemble
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+2008 
+8 results / 6 relevant
+
+@inproceedings{Lahdeoja2008,
+  author = {L\''{a}hdeoja, Otso},
+  title = {An Approach to Instrument Augmentation : the Electric Guitar},
+  pages = {53--56},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179585},
+  url = {http://www.nime.org/proceedings/2008/nime2008_053.pdf},
+  keywords = {Augmented instrument, electric guitar, gesture-sound relationship }
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Grosshauser2008,
+  author = {Grosshauser, Tobias},
+  title = {Low Force Pressure Measurement : Pressure Sensor Matrices for Gesture Analysis , Stiffness Recognition and Augmented Instruments},
+  pages = {97--102},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179551},
+  url = {http://www.nime.org/proceedings/2008/nime2008_097.pdf},
+  keywords = {Pressure Measurement, Force, Sensor, Finger, Violin, Strings, Piano, Left Hand, Right Hand, Time Line, Cramping, Gesture and Posture Analysis. },
+  abstract = {The described project is a new approach to use highly sensitive low force pressure sensor matrices for malposition, cramping and tension of hands and fingers, gesture and keystroke analysis and for new musical expression. In the latter, sensors are used as additional touch sensitive switches and keys. In pedagogical issues, new ways of technology enhanced teaching, self teaching and exercising are described. The used sensors are custom made in collaboration with the ReactiveS Sensorlab. }
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Ng2008,
+  author = {Ng, Kia and Nesi, Paolo},
+  title = {i-Maestro : Technology-Enhanced Learning and Teaching for Music},
+  pages = {225--228},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179605},
+  url = {http://www.nime.org/proceedings/2008/nime2008_225.pdf},
+  keywords = {augmented instrument,education,gesture,interactive,interface,motion,multimedia,music,nime08,notation,sensor,sonification,technology-enhanced learning,visualisation},
+  abstract = {This paper presents a project called i-Maestro (www.i-maestro.org) which develops interactive multimedia environments for technology enhanced music education. The project explores novel solutions for music training in both theory and performance, building on recent innovations resulting from the development of computer and information technologies, by exploiting new pedagogical paradigms with cooperative and interactive self-learning environments, gesture interfaces, and augmented instruments. This paper discusses the general context along with the background and current developments of the project, together with an overview of the framework and discussions on a number of selected tools to support technology-enhanced music learning and teaching. }
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Bouillot2008,
+  author = {Bouillot, Nicolas and Wozniewski, Mike and Settel, Zack and Cooperstock, Jeremy R.},
+  title = {A Mobile Wireless Augmented Guitar},
+  pages = {189--192},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179499},
+  url = {http://www.nime.org/proceedings/2008/nime2008_189.pdf},
+  keywords = {nime08}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Kimura2008,
+  author = {Kimura, Mari},
+  title = {Making of VITESSIMO for Augmented Violin : Compositional Process and Performance},
+  pages = {219--220},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179581},
+  url = {http://www.nime.org/proceedings/2008/nime2008_219.pdf},
+  keywords = {Augmented Violin, gesture tracking, interactive performance },
+  abstract = {This paper describes the compositional process for creatingthe interactive work for violin entitled VITESSIMO using theAugmented Violin [1].}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Favilla2008,
+  author = {Favilla, Stuart and Cannon, Joanne and Hicks, Tony and Chant, Dale and Favilla, Paris},
+  title = {Gluisax : Bent Leather Band's Augmented Saxophone Project},
+  pages = {366--369},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2008},
+  address = {Genoa, Italy},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179531},
+  url = {http://www.nime.org/proceedings/2008/nime2008_366.pdf},
+  keywords = {Augmented saxophone, Gluion, OSC, virtuosic performance systems },
+  abstract = {This demonstration presents three new augmented and metasaxophone interface/instruments, built by the Bent LeatherBand. The instruments are designed for virtuosic liveperformance and make use of Sukandar Kartadinata's Gluion[OSC] interfaces. The project rationale and research outcomesfor the first twelve months is discussed. Instruments/interfacesdescribed include the Gluisop, Gluialto and Leathersop.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+2009 
+9 projects / 5 relevant
+
+@inproceedings{Hadjakos2009,
+  author = {Hadjakos, Aristotelis and Aitenbichler, Erwin and M\''{u}hlh\''{a}user, Max},
+  title = {Probabilistic Model of Pianists' Arm Touch Movements},
+  pages = {7--12},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2009},
+  address = {Pittsburgh, PA, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177567},
+  url = {http://www.nime.org/proceedings/2009/nime2009_007.pdf},
+  keywords = {Piano, arm movement, gesture, classification, augmented instrument, inertial sensing. },
+  abstract = {Measurement of pianists' arm movement provides a signal,which is composed of controlled movements and noise. Thenoise is composed of uncontrolled movement generated bythe interaction of the arm with the piano action and measurement error. We propose a probabilistic model for armtouch movements, which allows to estimate the amount ofnoise in a joint. This estimation helps to interpret the movement signal, which is of interest for augmented piano andpiano pedagogy applications.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Lahdeoja2009,
+  author = {L\''{a}hdeoja, Otso},
+  title = {Augmenting Chordophones with Hybrid Percussive Sound Possibilities},
+  pages = {102--105},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2009},
+  address = {Pittsburgh, PA, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177607},
+  url = {http://www.nime.org/proceedings/2009/nime2009_102.pdf},
+  keywords = {augmented instrument,chordophone,contact microphone systems,electric,electronic percussion,even with,guitar,leaving the instrument body,nime09,there is always a,trade-off,virtually mute},
+  abstract = {In this paper we describe an approach for introducing newelectronic percussive sound possibilities for stringinstruments by "listening" to the sounds of the instrument'sbody and extracting audio and data from the wood'sacoustic vibrations. A method for capturing, localizing andanalyzing the percussive hits on the instrument's body ispresented, in connection with an audio-driven electronicpercussive sound module. The system introduces a newgesture-sound relationship in the electric string instrumentplaying environment, namely the use of percussivetechniques on the instrument's body which are null inregular circumstances due to selective and exclusivemicrophone use for the strings. Instrument bodypercussions are widely used in the acoustic instrumentalpraxis. They yield a strong potential for providing anextended soundscape via instrument augmentation, directlycontrolled by the musician through haptic manipulation ofthe instrument itself. The research work was carried out onthe electric guitar, but the method used can apply to anystring instrument with a resonating body.}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Bottcher2009,
+  author = {B\''{o}ttcher, Niels and Dimitrov, Smilen},
+  title = {An Early Prototype of the Augmented PsychoPhone},
+  pages = {151--152},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2009},
+  address = {Pittsburgh, PA, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177467},
+  url = {http://www.nime.org/proceedings/2009/nime2009_151.pdf},
+  keywords = {Augmented saxophone, Physical computing, hyper instruments, mapping. },
+  abstract = {In this poster we present the early prototype of the augmented Psychophone --- a saxophone with various applied sensors, allowing the saxophone player to attach effects like pitch shifting, wah-wah and ring modulation to the saxophone, simply by moving the saxophone as one would do when really being enthusiastic and involved in the performance. The possibility of scratching on the previously recorded sound is also possible directly on the saxophone. }
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Nicolls2009,
+  author = {Nicolls, Sarah},
+  title = {Twenty-First Century Piano},
+  pages = {203--206},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2009},
+  address = {Pittsburgh, PA, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177641},
+  url = {http://www.nime.org/proceedings/2009/nime2009_203.pdf},
+  keywords = {sensor, gestural, technology, performance, piano, motors, interactive },
+  abstract = {“The reinvigoration of the role of the human body” - as John Richards recently described trends in using homemade electronics to move away from laptop performance [1] - is mirrored in an ambition of instrumentalists to interact more closely with the electronic sounds they are helping to create. For these players, there has often been a one-way street of the ‘instrument feeds MAX patch’ paradigm and arguments are made here for more complete performance feedback systems. Instrumentalists come to the question of interactivity with a whole array of gestures, sounds and associations already in place, so must choose carefully the means by which the instrumental performance is augmented. Frances-Marie Uitti [2] is a pioneer in the field, creating techniques to amplify the cellist’s innate performative gestures and in parallel developing the instrument. This paper intends to give an overview of the author’s work in developing interactivity in piano performance, mechanical augmentation of the piano and possible structural developments of the instrument to bring it into the twenty-first century.}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Jessop2009,
+  author = {Jessop, Elena},
+  title = {The Vocal Augmentation and Manipulation Prosthesis (VAMP): A Conducting-Based Gestural Controller for Vocal Performance},
+  pages = {256--259},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2009},
+  address = {Pittsburgh, PA, United States},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177583},
+  url = {http://www.nime.org/proceedings/2009/nime2009_256.pdf},
+  keywords = {musical expressivity, vocal performance, gestural control, conducting. },
+  abstract = {This paper describes The Vocal Augmentation and Manipulation Prosthesis (VAMP) a gesture-based wearable controller for live-time vocal performance. This controller allows a singer to capture and manipulate single notes that he or she sings, using a gestural vocabulary developed from that of choral conducting. By drawing from a familiar gestural vocabulary, this controller and the associated mappings can be more intuitive and expressive for both performer and audience. }
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+2010 
+9 projects / 3 relevant
+
+@inproceedings{Cannon2010,
+  author = {Cannon, Joanne and Favilla, Stuart},
+  title = {Expression and Spatial Motion : Playable Ambisonics},
+  pages = {120--124},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2010},
+  address = {Sydney, Australia},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177735},
+  url = {http://www.nime.org/proceedings/2010/nime2010_120.pdf},
+  keywords = {ambisonics, augmented instruments, expressive spatial motion, playable instruments},
+  abstract = {This paper presents research undertaken by the Bent Leather Band investigating the application of live Ambisonics to large digital-instrument ensemble improvisation. Their playable approach to live ambisonic projection is inspired by the work of Trevor Wishart and presents a systematic investigation of the potential for live spatial motion improvisation.}
+}
+
+Performer type: ensemble
+Instrument type: electric
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{McPherson2010,
+  author = {McPherson, Andrew and Kim, Youngmoo},
+  title = {Augmenting the Acoustic Piano with Electromagnetic String Actuation and Continuous Key Position Sensing},
+  pages = {217--222},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2010},
+  address = {Sydney, Australia},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177849},
+  url = {http://www.nime.org/proceedings/2010/nime2010_217.pdf},
+  keywords = {Augmented instruments, piano, interfaces, electromagnetic actuation, gesture measurement},
+  abstract = {This paper presents the magnetic resonator piano, an augmented instrument enhancing the capabilities of the acoustic grand piano. Electromagnetic actuators induce the stringsto vibration, allowing each note to be continuously controlled in amplitude, frequency, and timbre without external loudspeakers. Feedback from a single pickup on thepiano soundboard allows the actuator waveforms to remainlocked in phase with the natural motion of each string. Wealso present an augmented piano keyboard which reportsthe continuous position of every key. Time and spatial resolution are sufficient to capture detailed data about keypress, release, pretouch, aftertouch, and other extended gestures. The system, which is designed with cost and setupconstraints in mind, seeks to give pianists continuous control over the musical sound of their instrument. The instrument has been used in concert performances, with theelectronically-actuated sounds blending with acoustic instruments naturally and without amplification.}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Reboursiere2010,
+  author = {Reboursi\`{e}re, Lo\"{i}c and Frisson, Christian and L\"{a}hdeoja, Otso and Mills, John A. and Picard-Limpens, C\'{e}cile and Todoroff, Todor},
+  title = {Multimodal Guitar : A Toolbox For Augmented Guitar Performances},
+  pages = {415--418},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2010},
+  address = {Sydney, Australia},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177881},
+  url = {http://www.nime.org/proceedings/2010/nime2010_415.pdf},
+  keywords = {Augmented guitar, audio synthesis, digital audio effects, multimodal interaction, gestural sensing, polyphonic tran- scription, hexaphonic guitar},
+  abstract = {This project aims at studying how recent interactive and interactions technologies would help extend how we play theguitar, thus defining the "multimodal guitar". Our contributions target three main axes: audio analysis, gestural control and audio synthesis. For this purpose, we designed anddeveloped a freely-available toolbox for augmented guitarperformances, compliant with the PureData and Max/MSPenvironments, gathering tools for: polyphonic pitch estimation, fretboard visualization and grouping, pressure sensing,modal synthesis, infinite sustain, rearranging looping and "smart" harmonizing.}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+2011 
+5 projects / 4 relevant 
+
+@inproceedings{Shear2011,
+  author = {Shear, Greg and Wright, Matthew},
+  title = {The Electromagnetically Sustained Rhodes Piano},
+  pages = {14--17},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2011},
+  address = {Oslo, Norway},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178161},
+  url = {http://www.nime.org/proceedings/2011/nime2011_014.pdf},
+  presentation-video = {https://vimeo.com/26802504/},
+  keywords = {Rhodes, keyboard, electromagnetic, sustain, augmented instrument, feedback, aftertouch },
+  abstract = {The Electromagnetically Sustained Rhodes Piano is an augmentation of the original instrument with additional control over the amplitude envelope of individual notes. Thisincludes slow attacks and infinite sustain while preservingthe familiar spectral qualities of this classic electromechanical piano. These additional parameters are controlled withaftertouch on the existing keyboard, extending standardpiano technique. Two sustain methods were investigated,driving the actuator first with a pure sine wave, and secondwith the output signal of the sensor. A special isolationmethod effectively decouples the sensors from the actuatorsand tames unruly feedback in the high-gain signal path.}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Newton2011,
+  author = {Newton, Dan and Marshall, Mark T.},
+  title = {Examining How Musicians Create Augmented Musical Instruments},
+  pages = {155--160},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2011},
+  address = {Oslo, Norway},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178121},
+  url = {http://www.nime.org/proceedings/2011/nime2011_155.pdf},
+  presentation-video = {https://vimeo.com/26807158/},
+  keywords = {Augmented Instruments, Instrument Design, Digital Musical Instruments, Performance },
+  abstract = {This paper examines the creation of augmented musicalinstruments by a number of musicians. Equipped with asystem called the Augmentalist, 10 musicians created newaugmented instruments based on their traditional acousticor electric instruments. This paper discusses the ways inwhich the musicians augmented their instruments, examines the similarities and differences between the resultinginstruments and presents a number of interesting findingsresulting from this process.}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Ramkissoon2011,
+  author = {Ramkissoon, Izzi},
+  title = {The Bass Sleeve: A Real-time Multimedia Gestural Controller for Augmented Electric Bass Performance},
+  pages = {224--227},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2011},
+  address = {Oslo, Norway},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178141},
+  url = {http://www.nime.org/proceedings/2011/nime2011_224.pdf},
+  keywords = {Interactive Music, Interactive Performance Systems, Gesture Controllers, Augmented Instruments, Electric Bass, Video Tracking },
+  abstract = {The Bass Sleeve uses an Arduino board with a combination of buttons, switches, flex sensors, force sensing resistors, and an accelerometer to map the ancillary movements of a performer to sampling, real-time audio and video processing including pitch shifting, delay, low pass filtering, and onscreen video movement. The device was created to augment the existing functions of the electric bass and explore the use of ancillary gestures to control the laptop in a live performance. In this research it was found that incorporating ancillary gestures into a live performance could be useful when controlling the parameters of audio processing, sound synthesis and video manipulation. These ancillary motions can be a practical solution to gestural multitasking allowing independent control of computer music parameters while performing with the electric bass. The process of performing with the Bass Sleeve resulted in a greater amount of laptop control, an increase in the amount of expressiveness using the electric bass in combination with the laptop, and an improvement in the interactivity on both the electric bass and laptop during a live performance. The design uses various gesture-to-sound mapping strategies to accomplish a compositional task during an electro acoustic multimedia musical performance piece. }
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Donald2011,
+  author = {Donald, Erika and Duinker, Ben and Britton, Eliot},
+  title = {Designing the EP Trio: Instrument Identities, Control and Performance Practice in an Electronic Chamber Music Ensemble},
+  pages = {491--494},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2011},
+  address = {Oslo, Norway},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1177999},
+  url = {http://www.nime.org/proceedings/2011/nime2011_491.pdf},
+  keywords = {Live electronics, digital performance, mapping, chamber music, ensemble, instrument identity },
+  abstract = {This paper outlines the formation of the Expanded Performance (EP) trio, a chamber ensemble comprised of electriccello with sensor bow, augmented digital percussion, anddigital turntable with mixer. Decisions relating to physical set-ups and control capabilities, sonic identities, andmappings of each instrument, as well as their roles withinthe ensemble, are explored. The contributions of these factors to the design of a coherent, expressive ensemble andits emerging performance practice are considered. The trioproposes solutions to creation, rehearsal and performanceissues in ensemble live electronics.}
+}
+
+Performer type: ensemble
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+2012 
+16 results / 11 relevant
+
+@inproceedings{Britt2012,
+  author = {N. Cameron Britt and Jeff Snyder and Andrew McPherson},
+  title = {The EMvibe: An Electromagnetically Actuated Vibraphone},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178221},
+  url = {http://www.nime.org/proceedings/2012/nime2012_101.pdf},
+  keywords = {Vibraphone, augmented instrument, electromagnetic actuation},
+  abstract = {The EMvibe is an augmented vibraphone that allows for continuous control over the amplitude and spectrum of in-dividual notes. The system uses electromagnetic actuators to induce vibrations in the vibraphone's aluminum tone bars. The tone bars and the electromagnetic actuators are coupled via neodymium magnets affixed to each bar. The acoustic properties of the vibraphone allowed us to develop a very simple, low-cost and powerful amplification solution that requires no heat sinking. The physical design is meant to be portable and robust, and the system can be easily installed on any vibraphone without interfering with normal performance techniques. The system supports multiple in-terfacing solutions, affording the performer and composer the ability to interact with the EMvibe in different ways depending on the musical context.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Brent2012,
+  author = {William Brent},
+  title = {The Gesturally Extended Piano},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178219},
+  url = {http://www.nime.org/proceedings/2012/nime2012_102.pdf},
+  keywords = {Augmented instruments, controllers, motion tracking, mapping},
+  abstract = {This paper introduces the Gesturally Extended Piano---an augmented instrument controller that relies on information drawn from performer motion tracking in order to control real-time audiovisual processing and synthesis. Specifically, the positions, heights, velocities, and relative distances and angles of points on the hands and forearms are followed. Technical details and installation of the tracking system are covered, as well as strategies for interpreting and mapping the resulting data in relation to synthesis parameters. Design factors surrounding mapping choices and the interrelation between mapped parameters are also considered.}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{McPherson2012a,
+  author = {Andrew McPherson},
+  title = {Techniques and Circuits for Electromagnetic Instrument Actuation},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1180533},
+  url = {http://www.nime.org/proceedings/2012/nime2012_117.pdf},
+  keywords = {augmented instruments, electromagnetic actuation, circuit design, hardware},
+  abstract = {There is growing interest in the field of augmented musical instruments, which extend traditional acoustic instruments using new sensors and actuators. Several designs use electromagnetic actuation to induce vibrations in the acoustic mechanism, manipulating the traditional sound of the in-strument without external speakers. This paper presents techniques and guidelines for the use of electromagnetic actuation in augmented instruments, including actuator design and selection, interfacing with the instrument, and cir-cuits for driving the actuators. The material in this pa-per forms the basis of the magnetic resonator piano, an electromagnetically-augmented acoustic grand piano now in its second design iteration. In addition to discussing applications to the piano, this paper aims to provide a toolbox to accelerate the design of new hybrid acoustic-electronic instruments.}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Schiesser2012,
+  author = {S{\'e}bastien Schiesser and Jan C. Schacher},
+  title = {SABRe: The Augmented Bass Clarinet},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1180587},
+  url = {http://www.nime.org/proceedings/2012/nime2012_193.pdf},
+  keywords = {augmented instrument, bass clarinet, sensors, air pressure, gesture, OSC},
+  abstract = {An augmented bass clarinet is developed in order to extend the performance and composition potential of the instru-ment. Four groups of sensors are added: key positions, inertial movement, mouth pressure and trigger switches. The instrument communicates wirelessly with a receiver setup which produces an OSC data stream, usable by any appli-cation on a host computer.
+The SABRe projects intention is to be neither tied to its inventors nor to one single player but to offer a reference design for a larger community of bass clarinet players and composers. For this purpose, several instruments are made available and a number of composer residencies, workshops, presentations and concerts are organized. These serve for evaluation and improvement purposes in order to build a robust and user friendly extended musical instrument, that opens new playing modalities.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{McPherson2012,
+  author = {Andrew McPherson},
+  title = {TouchKeys: Capacitive Multi-Touch Sensing on a Physical Keyboard},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1180531},
+  url = {http://www.nime.org/proceedings/2012/nime2012_195.pdf},
+  keywords = {augmented instruments, keyboard, capacitive sensing, multitouch},
+  abstract = {Capacitive touch sensing is increasingly used in musical con-trollers, particularly those based on multi-touch screen interfaces. However, in contrast to the venerable piano-style keyboard, touch screen controllers lack the tactile feedback many performers find crucial. This paper presents an augmentation system for acoustic and electronic keyboards in which multi-touch capacitive sensors are added to the surface of each key. Each key records the position of fingers on the surface, and by combining this data with MIDI note onsets and aftertouch from the host keyboard, the system functions as a multidimensional polyphonic controller for a wide variety of synthesis software. The paper will discuss general capacitive touch sensor design, keyboard-specific implementation strategies, and the development of a flexible mapping engine using OSC and MIDI.}
+}
+
+Performer type: solo 
+Instrument type: acoustic, electric
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{Park2012,
+  author = {Yongki Park and Hoon Heo and Kyogu Lee},
+  title = {Voicon: An Interactive Gestural Microphone For Vocal Performance},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1180565},
+  url = {http://www.nime.org/proceedings/2012/nime2012_199.pdf},
+  keywords = {Gesture, Microphone, Vocal Performance, Performance In-terface},
+  abstract = {This paper describes an interactive gestural microphone for vocal performance named Voicon. Voicon is a non-invasive and gesture-sensitive microphone which allows vocal performers to use natural gestures to create vocal augmentations and modifications by using embedded sensors in a microphone. Through vocal augmentation and modulation, the performers can easily generate desired amount of the vibrato and achieve wider vocal range. These vocal en-hancements will deliberately enrich the vocal performance both in its expressiveness and the dynamics. Using Voicon, singers can generate additional vibrato, control the pitch and activate customizable vocal effect by simple and intuitive gestures in live and recording context.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Schlessinger2012,
+  author = {Dan Moses Schlessinger},
+  title = {Concept Tahoe: Microphone Midi Control},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1180591},
+  url = {http://www.nime.org/proceedings/2012/nime2012_202.pdf},
+  keywords = {NIME, Sennheiser, Concept Tahoe, MIDI, control, microphone},
+  abstract = {We have developed a prototype wireless microphone that provides vocalists with control over their vocal effects directly from the body of the microphone. A wireless microphone has been augmented with six momentary switches, one fader, and three axes of motion and position sensors, all of which provide MIDI output from the wireless receiver. The MIDI data is used to control external vocal effects units such as live loopers, reverbs, distortion pedals, etc. The goal was to to provide dramatically increased expressive control to vocal performances, and address some of the shortcomings of pedal-controlled effects. The addition of gestural controls from the motion sensors opens up new performance possibilities such as panning the voice simply by pointing the microphone in one direction or another. The result is a hybrid microphone-musical instrument which has recieved extremely positive results from vocalists in numerous infor-mal workshops.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Yang2012,
+  author = {Qi Yang and Georg Essl},
+  title = {Augmented Piano Performance using a Depth Camera},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178455},
+  url = {http://www.nime.org/proceedings/2012/nime2012_203.pdf},
+  keywords = {NIME, piano, depth camera, musical instrument, gesture, tabletop projection},
+  abstract = {We augment the piano keyboard with a 3D gesture space using Microsoft Kinect for sensing and top-down projection for visual feedback. This interface provides multi-axial gesture controls to enable continuous adjustments to multiple acoustic parameters such as those on the typical digital synthesizers. We believe that using gesture control is more visceral and aesthetically pleasing, especially during concert performance where the visibility of the performer's action is important. Our system can also be used for other types of gesture interaction as well as for pedagogical applications.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Wierenga2012,
+  author = {Red Wierenga},
+  title = {A New Keyboard-Based, Sensor-Augmented Instrument For Live Performance},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178451},
+  url = {http://www.nime.org/proceedings/2012/nime2012_211.pdf},
+  keywords = {Gesture, controllers, Digital Musical Instrument, keyboard},
+  abstract = {In an attempt to utilize the expert pianist's technique and spare bandwidth, a new keyboard-based instrument augmented by sensors suggested by the examination of existing acoustic instruments is introduced. The complete instrument includes a keyboard, various pedals and knee levers, several bowing controllers, and breath and embouchure sensors connected to an Arduino microcontroller that sends sensor data to a laptop running Max/MSP, where custom software maps the data to synthesis algorithms. The audio is output to a digital amplifier powering a transducer mounted on a resonator box to which several of the sensors are attached. Careful sensor selection and mapping help to facilitate performance mode.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Kimura2012,
+  author = {Mari Kimura and Nicolas Rasamimanana and Fr{\'e}d{\'e}ric Bevilacqua and Norbert Schnell and Bruno Zamborlin and Emmanuel Fl{\'e}ty},
+  title = {Extracting Human Expression For Interactive Composition with the Augmented Violin},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178305},
+  url = {http://www.nime.org/proceedings/2012/nime2012_279.pdf},
+  keywords = {Augmented Violin, Gesture Follower, Interactive Performance},
+  abstract = {As a 2010 Artist in Residence in Musical Research at IRCAM, Mari Kimura used the Augmented Violin to develop new compositional approaches, and new ways of creating interactive performances [1]. She contributed her empirical and historical knowledge of violin bowing technique, working with the Real Time Musical Interactions Team at IRCAM. Thanks to this residency, her ongoing long-distance collaboration with the team since 2007 dramatically accelerated, and led to solving several compositional and calibration issues of the Gesture Follower (GF) [2]. Kimura was also the first artist to develop projects between the two teams at IRCAM, using OMAX (Musical Representation Team) with GF. In the past year, the performance with Augmented Violin has been expanded in larger scale interactive audio/visual projects as well. In this paper, we report on the various techniques developed for the Augmented Violin and compositions by Kimura using them, offering specific examples and scores.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Kapur2012,
+  author = {Ajay Kapur and Jim Murphy and Dale Carnegie},
+  title = {Kritaanjali: A Robotic Harmonium for Performance, Pedogogy and Research},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2012},
+  publisher = {University of Michigan},
+  address = {Ann Arbor, Michigan},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178299},
+  url = {http://www.nime.org/proceedings/2012/nime2012_99.pdf},
+  keywords = {Musical Robotics, pedagogy, North Indian Classical Music, augmented instruments},
+  abstract = {In this paper, we introduce Kritaanjli, a robotic harmo-nium. Details concerning the design, construction, and use of Kritaanjli are discussed. After an examination of related work, quantitative research concerning the hardware chosen in the construction of the instrument is shown, as is a thor-ough exposition of the design process and use of CAD/CAM techniques in the design lifecycle of the instrument. Addi-tionally, avenues for future work and compositional prac-tices are focused upon, with particular emphasis placed on human/robot interaction, pedagogical techniques afforded by the robotic instrument, and compositional avenues made accessible through the use of Kritaanjli.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+2013 
+14 results / 7 relevant
+
+@inproceedings{Burlet2013,
+  author = {Gregory Burlet and Ichiro Fujinaga},
+  title = {Stompboxes: Kicking the Habit},
+  pages = {41--44},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178488},
+  url = {http://www.nime.org/proceedings/2013/nime2013_109.pdf},
+  keywords = {Augmented instrument, gesture recognition, accelerometer, pattern recognition, performance practice},
+  abstract = {Sensor-based gesture recognition is investigated as a possible solution to theproblem of managing an overwhelming number of audio effects in live guitarperformances. A realtime gesture recognition system, which automaticallytoggles digital audio effects according to gestural information captured by anaccelerometer attached to the body of a guitar, is presented. To supplement theseveral predefined gestures provided by the recognition system, personalizedgestures may be trained by the user. Upon successful recognition of a gesture,the corresponding audio effects are applied to the guitar signal and visualfeedback is provided to the user. An evaluation of the system yielded 86%accuracy for user-independent recognition and 99% accuracy for user-dependentrecognition, on average.}
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{Feugere2013,
+  author = {Lionel Feug{\`e}re and Christophe d'Alessandro},
+  title = {Digitartic: bi-manual gestural control of articulation in performative singing synthesis},
+  pages = {331--336},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178520},
+  url = {http://www.nime.org/proceedings/2013/nime2013_143.pdf},
+  keywords = {singing voice synthesis, gestural control, syllabic synthesis, articulation, formants synthesis},
+  abstract = {Digitartic, a system for bi-manual gestural control of Vowel-Consonant-Vowelperformative singing synthesis is presented. This system is an extension of areal-time gesture-controlled vowel singing instrument developed in the Max/MSPlanguage. In addition to pitch, vowels and voice strength control, Digitarticis designed for gestural control of articulation parameters for a wide set onconsonant, including various places and manners of articulation. The phases ofarticulation between two phonemes are continuously controlled and can bedriven in real time without noticeable delay, at any stage of the syntheticphoneme production. Thus, as in natural singing, very accurate rhythmicpatterns are produced and adapted while playing with other musicians. Theinstrument features two (augmented) pen tablets for controlling voiceproduction: one is dealing with the glottal source and vowels, the second oneis dealing with consonant/vowel articulation. The results show very naturalconsonant and vowel synthesis. Virtual choral practice confirms theeffectiveness of Digitartic as an expressive musical instrument.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Yang2013,
+  author = {Qi Yang and Georg Essl},
+  title = {Visual Associations in Augmented Keyboard Performance},
+  pages = {252--255},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178694},
+  url = {http://www.nime.org/proceedings/2013/nime2013_156.pdf},
+  keywords = {Visual feedback, interaction, NIME, musical instrument, interaction, augmented keyboard, gesture, Kinect},
+  abstract = {What is the function of visuals in the design of an augmented keyboardperformance device with projection? We address this question by thinkingthrough the impact of choices made in three examples on notions of locus ofattention, visual anticipation and causal gestalt to articulate a space ofdesign choices. Visuals can emphasize and deemphasize aspects of performanceand help clarify the role input has to the performance. We suggest that thisprocess might help thinking through visual feedback design in NIMEs withrespect to the performer or the audience.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: visual
+
+~~
+
+@inproceedings{Astrinaki2013,
+  author = {Maria Astrinaki and Nicolas d'Alessandro and Lo{\"i}c Reboursi{\`e}re and Alexis Moinet and Thierry Dutoit},
+  title = {MAGE 2.0: New Features and its Application in the Development of a Talking Guitar},
+  pages = {547--550},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178467},
+  url = {http://www.nime.org/proceedings/2013/nime2013_214.pdf},
+  keywords = {speech synthesis, augmented guitar, hexaphonic guitar},
+  abstract = {This paper describes the recent progress in our approach to generateperformative and controllable speech. The goal of the performative HMM-basedspeech and singing synthesis library, called Mage, is to have the ability togenerate natural sounding speech with arbitrary speaker's voicecharacteristics, speaking styles and expressions and at the same time to haveaccurate reactive user control over all the available production levels. Mageallows to arbitrarily change between voices, control speaking style or vocalidentity, manipulate voice characteristics or alter the targeted contexton-the-fly and also maintain the naturalness and intelligibility of the output.To achieve these controls, it was essential to redesign and improve the initiallibrary. This paper focuses on the improvements of the architectural design,the additional user controls and provides an overview of a prototype, where aguitar is used to reactively control the generation of a synthetic voice invarious levels.}
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{McPherson2013,
+  author = {Andrew McPherson},
+  title = {Portable Measurement and Mapping of Continuous Piano Gesture},
+  pages = {152--157},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178610},
+  url = {http://www.nime.org/proceedings/2013/nime2013_240.pdf},
+  keywords = {Piano, keyboard, optical sensing, gesture sensing, visual feedback, mapping, magnetic resonator piano},
+  abstract = {This paper presents a portable optical measurement system for capturingcontinuous key motion on any piano. Very few concert venues have MIDI-enabledpianos, and many performers depend on the versatile but discontinued MoogPianoBar to provide MIDI from a conventional acoustic instrument. The scannerhardware presented in this paper addresses the growing need for alternativesolutions while surpassing existing systems in the level of detail measured.Continuous key position on both black and white keys is gathered at 1kHz samplerate. Software extracts traditional and novel features of keyboard touch fromeach note, which can be flexibly mapped to sound using MIDI or Open SoundControl. RGB LEDs provide rich visual feedback to assist the performer ininteracting with more complex sound mapping arrangements. An application ispresented to the magnetic resonator piano, an electromagnetically-augmentedacoustic grand piano which is performed using continuous key positionmeasurements.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Jenkins2013,
+  author = {Leonardo Jenkins and Shawn Trail and George Tzanetakis and Peter Driessen and Wyatt Page},
+  title = {An Easily Removable, wireless Optical Sensing System (EROSS) for the Trumpet},
+  pages = {352--357},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178562},
+  url = {http://www.nime.org/proceedings/2013/nime2013_261.pdf},
+  keywords = {hyperinstrument, trumpet, minimally-invasive, gesture sensing, wireless, I2C},
+  abstract = {This paper presents a minimally-invasive, wireless optical sensorsystem for use with any conventional piston valve acoustic trumpet. Itis designed to be easy to install and remove by any trumpeter. Ourgoal is to offer the extended control afforded by hyperinstrumentswithout the hard to reverse or irreversible invasive modificationsthat are typically used for adding digital sensing capabilities. Weutilize optical sensors to track the continuous position displacementvalues of the three trumpet valves. These values are trasmittedwirelessly and can be used by an external controller. The hardware hasbeen designed to be reconfigurable by having the housing 3D printed sothat the dimensions can be adjusted for any particular trumpetmodel. The result is a low cost, low power, easily replicable sensorsolution that offers any trumpeter the ability to augment their ownexisting trumpet without compromising the instrument's structure orplaying technique. The extended digital control afforded by our systemis interweaved with the natural playing gestures of an acoustictrumpet. We believe that this seemless integration is critical forenabling effective and musical human computer interaction.Keywords: hyperinstrument, trumpet, minimally-invasive, gesture sensing,wireless, I2C}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Grosshauser2013,
+  author = {Tobias Grosshauser and Gerhard Tr{\''o}ster},
+  title = {Finger Position and Pressure Sensing Techniques for String and Keyboard Instruments},
+  pages = {479--484},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2013},
+  month = {May},
+  publisher = {Graduate School of Culture Technology, KAIST},
+  address = {Daejeon, Republic of Korea},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178538},
+  url = {http://www.nime.org/proceedings/2013/nime2013_286.pdf},
+  keywords = {Sensor, Piano, Violin, Guitar, Position, Pressure, Keyboard},
+  abstract = {Several new technologies to capture motion, gesture and forces for musical instrument players' analyses have been developed in the last years. In research and for augmented instruments one parameter is underrepresented so far. It is finger position and pressure measurement, applied by the musician while playing the musical instrument. In this paper we show a flexible linear-potentiometer and forcesensitive-resistor (FSR) based solution for position, pressure and force sensing between the contact point of the fingers and the musical instrument. A flexible matrix printed circuit board (PCB) is fixed on a piano key. We further introduce linear potentiometer based left hand finger position sensing for string instruments, integrated into a violin and a guitar finger board. Several calibration and measurement scenarios are shown. The violin sensor was evaluated with 13 music students regarding playability and robustness of the system. Main focus was a the integration of the sensors into these two traditional musical instruments as unobtrusively as possible to keep natural haptic playing sensation. The musicians playing the violin in different performance situations stated good playability and no differences in the haptic sensation while playing. The piano sensor is rated, due to interviews after testing it in a conventional keyboard quite unobtrusive, too, but still evokes a different haptic sensation.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: unspecified
+
+~~
+
+2014 
+13 results / 5 relevant
+
+
+@inproceedings{mmainsbridge2014,
+  author = {Mary Mainsbridge and Kirsty Beilharz},
+  title = {Body As Instrument: Performing with Gestural Interfaces},
+  pages = {110--113},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2014},
+  month = {June},
+  publisher = {Goldsmiths, University of London},
+  address = {London, United Kingdom},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178859},
+  url = {http://www.nime.org/proceedings/2014/nime2014_393.pdf},
+  abstract = {This paper explores the challenge of achieving nuanced control and physical engagement with gestural interfaces in performance. Performances with a prototype gestural performance system, Gestate, provide the basis for insights into the application of gestural systems in live contexts. These reflections stem from a performer's perspective, outlining the experience of prototyping and performing with augmented instruments that extend vocal or instrumental technique through ancillary gestures. Successful implementation of rapidly evolving gestural technologies in real-time performance calls for new approaches to performing and musicianship, centred around a growing understanding of the body's physical and creative potential. For musicians hoping to incorporate gestural control seamlessly into their performance practice a balance of technical mastery and kinaesthetic awareness is needed to adapt existing systems to their own purposes. Within non-tactile systems, visual feedback mechanisms can support this process by providing explicit visual cues that compensate for the absence of haptic or tangible feedback. Experience gained through prototyping and performance can yield a deeper understanding of the broader nature of gestural control and the way in which performers inhabit their own bodies.}
+}
+
+Performer type: solo, ensemble
+Instrument type: acoustic, electric 
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{ldonovan2014,
+  author = {Liam Donovan and Andrew McPherson},
+  title = {The Talking Guitar: Headstock Tracking and Mapping Strategies},
+  pages = {351--354},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2014},
+  month = {June},
+  publisher = {Goldsmiths, University of London},
+  address = {London, United Kingdom},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178752},
+  url = {http://www.nime.org/proceedings/2014/nime2014_407.pdf},
+  abstract = {This paper presents the Talking Guitar, an electric guitar augmented with a system which tracks the position of the headstock in real time and uses that data to control the parameters of a formant-filtering effect which impresses upon the guitar sound a sense of speech. A user study is conducted with the device to establish an indication of the practicality of using headstock tracking to control effect parameters and to suggest natural and useful mapping strategies. Individual movements and gestures are evaluated in order to guide further development of the system.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{jsokolovskis2014,
+  author = {Janis Sokolovskis and Andrew McPherson},
+  title = {Optical Measurement of Acoustic Drum Strike Locations},
+  pages = {70--73},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2014},
+  month = {June},
+  publisher = {Goldsmiths, University of London},
+  address = {London, United Kingdom},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178943},
+  url = {http://www.nime.org/proceedings/2014/nime2014_436.pdf},
+  abstract = {This paper presents a method for locating the position of a strike on an acoustic drumhead. Near-field optical sensors were installed underneath the drumhead of a commercially available snare drum. By implementing time difference of arrival (TDOA) algorithm accuracy within 2cm was achieved in approximating the location of strikes. The system can be used for drum performance analysis, timbre analysis and can form a basis for an augmented drum performance system.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: unspecified
+
+~~
+
+@inproceedings{doverholt2014,
+  author = {Dan Overholt and Steven Gelineck},
+  title = {Design \& Evaluation of an Accessible Hybrid Violin Platform},
+  pages = {122--125},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2014},
+  month = {June},
+  publisher = {Goldsmiths, University of London},
+  address = {London, United Kingdom},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178897},
+  url = {http://www.nime.org/proceedings/2014/nime2014_470.pdf},
+  abstract = {We introduce and describe the initial evaluation of a new low-cost augmented violin prototype, with research focused on the user experience when playing such hybrid physical-digital instruments, and the exploration of novel interactive performance techniques. Another goal of this work is wider platform accessibility for players, via a simple `do-it-yourself' approach described by the design herein. While the hardware and software elements are open source, the build process can nonetheless require non-insignificant investments of time and money, as well as basic electronics construction skills. These have been kept to a minimum wherever possible. Our initial prototype is based upon an inexpensive electric violin that is widely available online for approximately $200 USD. This serves as the starting point for construction, to which the design adds local Digital Signal Processing (DSP), gestural sensing, and sound output. Real-time DSP algorithms are running on a mobile device, which also incorporates orientation/gesture sensors for parameter mapping, with the resulting sound amplified and rendered via small loudspeakers mounted on the instrument. The platform combines all necessary elements for digitally-mediated interactive performance; the need for a traditional computer only arises when developing new DSP algorithms for the platform. An initial exploratory evaluation with users is presented, in which performers explore different possibilities with the proposed platform (various DSP implementations, mapping schemes, physical setups, etc.) in order to better establish the needs of the performing artist. Based on these results, future work is outlined leading towards the development of a complete quartet of instruments.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{avanzandt2014,
+  author = {Alejandro Van Zandt-Escobar and Baptiste Caramiaux and Atau Tanaka},
+  title = {PiaF: A Tool for Augmented Piano Performance Using Gesture Variation Following},
+  pages = {167--170},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2014},
+  month = {June},
+  publisher = {Goldsmiths, University of London},
+  address = {London, United Kingdom},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1178991},
+  url = {http://www.nime.org/proceedings/2014/nime2014_511.pdf},
+  abstract = {When performing a piece, a pianist's interpretation is communicated both through the sound produced and through body gestures. We present PiaF (Piano Follower), a prototype for augmenting piano performance by measuring gesture variations. We survey other augmented piano projects, several of which focus on gestural recognition, and present our prototype which uses machine learning techniques for gesture classification and estimation of gesture variations in real-time. Our implementation uses the Kinect depth sensor to track body motion in space, which is used as input data. During an initial learning phase, the system is taught a set of reference gestures, or templates. During performance, the live gesture is classified in real-time, and variations with respect to the recognized template are computed. These values can then be mapped to audio processing parameters, to control digital effects which are applied to the acoustic output of the piano in real-time. We discuss initial tests using PiaF with a pianist, as well as potential applications beyond live performance, including pedagogy and embodiment of recorded performance.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+2015 
+6 results / 2 relevant
+
+@inproceedings{pdahlstedt2015,
+  author = {Palle Dahlstedt},
+  title = {Mapping Strategies and Sound Engine Design for an Augmented Hybrid Piano},
+  pages = {271--276},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Edgar Berdahl and Jesse Allison},
+  year = {2015},
+  month = {May},
+  publisher = {Louisiana State University},
+  address = {Baton Rouge, Louisiana, USA},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179046},
+  url = {http://www.nime.org/proceedings/2015/nime2015_170.pdf},
+  urlsuppl1 = {http://www.nime.org/proceedings/2015/170/0170-file1.zip},
+  abstract = {Based on a combination of novel mapping techniques and carefully designed sound engines, I present an augmented hybrid piano specifically designed for improvisation. The mapping technique, originally developed for other control interfaces but here adapted to the piano keyboard, is based on a dynamic vectorization of control parameters, allowing both wild sonic exploration and minute intimate expression. The original piano sound is used as the sole sound source, subjected to processing techniques such as virtual resonance strings, dynamic buffer shuffling, and acoustic and virtual feedback. Thanks to speaker and microphone placement, the acoustic and processed sounds interact in both directions and blend into one new instrument. This also allows for unorthodox playing (knocking, plucking, shouting). Processing parameters are controlled from the keyboard playing alone, allowing intuitive control of complex processing by ear, integrating expressive musical playing with sonic exploration. The instrument is not random, but somewhat unpredictable. This feeds into the improvisation, defining a particular idiomatics of the instruments. Hence, the instrument itself is an essential part of the musical work. Performances include concerts in UK, Japan, Singapore, Australia and Sweden, in solos and ensembles, performed by several pianists. Variations of this hybrid instrument for digital keyboards are also presented.}
+}
+
+Performer type: solo, ensemble
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{apiepenbrink2015,
+  author = {Andrew Piepenbrink and Matthew Wright},
+  title = {The Bistable Resonator Cymbal: An Actuated Acoustic Instrument Displaying Physical Audio Effects},
+  pages = {227--230},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Edgar Berdahl and Jesse Allison},
+  year = {2015},
+  month = {May},
+  publisher = {Louisiana State University},
+  address = {Baton Rouge, Louisiana, USA},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1179154},
+  url = {http://www.nime.org/proceedings/2015/nime2015_245.pdf},
+  urlsuppl1 = {http://www.nime.org/proceedings/2015/245/0245-file1.mov},
+  urlsuppl2 = {http://www.nime.org/proceedings/2015/245/0245-file2.zip},
+  abstract = {We present the Bistable Resonator Cymbal, a type of actuated acoustic instrument which augments a conventional cymbal with feedback-induced resonance. The system largely employs standard, commercially-available sound reinforcement and signal processing hardware and software, and no permanent modifications to the cymbal are needed. Several types of cymbals may be used, each capable of producing a number of physical audio effects. Cymbal acoustics, implementation, stability issues, interaction behavior, and sonic results are discussed.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+2016 
+12 results / 6 relevant
+
+@inproceedings{Chang2016,
+  author = {Herbert H.C. Chang and Spencer Topel},
+  title = {Electromagnetically Actuated Acoustic Amplitude Modulation Synthesis},
+  pages = {8--13},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.3964599},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0003.pdf},
+  abstract = {This paper discusses a new approach to acoustic amplitude modulation. Building on prior work with electromagnetic augmentation of acoustic instruments, we begin with a theory of operation model to describe the mechanical forces necessary to produce acoustic amplitude modulation synthesis. We then propose an implementation of our model as an instrumental prototype. The results illustrate that our acoustic amplitude modulation system produces controllable sideband components, and that synthesis generated from our corresponding numerical dynamic system model closely approximates the acoustic result of the physical system.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Baldwin2016,
+  author = {Alex Baldwin and Troels Hammer and Edvinas Pechiulis and Peter Williams and Dan Overholt and Stefania Serafin},
+  title = {Tromba Moderna: A Digitally Augmented Medieval Instrument},
+  pages = {14--19},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.3964592},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0004.pdf},
+  abstract = {An interactive museum exhibit of a digitally augmented medieval musical instrument, the tromba marina, is presented. The tromba marina is a curious single stringed instrument with a rattling bridge, from which a trumpet-like timbre is produced. The physical instrument was constructed as a replica of one found in Musikmuseet in Frederiksberg. The replicated instrument was augmented with a pickup, speakers and digital signal processing to create a more reliable, approachable and appropriate instrument for interactive display in the museum. We report on the evaluation of the instrument performed at the Danish museum of musical instruments.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Sello2016,
+  author = {Jacob T. Sello},
+  title = {The Hexenkessel: A Hybrid Musical Instrument for Multimedia Performances},
+  pages = {122--131},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.1176118},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0025.pdf},
+  abstract = {This paper introduces the Hexenkessel---an augmented musical
+instrument for interactive multimedia arts. The Hexenkessel is a classical
+timpani with its drumhead acting as a tangible user interface for expressive
+multimedia performances on stage.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Lnicode228hdeoja2016,
+  author = {Otso L\''{a}hdeoja},
+  title = {Active Acoustic Instruments for Electronic Chamber Music},
+  pages = {132--136},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.1176054},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0027.pdf},
+  abstract = {This paper presents an ongoing project for augmenting acoustic
+instruments with active acoustics. Active acoustics are defined as audio-rate
+vibration driven into the instruments physical structure, inducing air-borne
+sound output. The instrument's acoustic sound is thus doubled by an
+electronic soundscape radiating from the same source. The article is centered on
+a case study on two guitars, one with hexaphonic sound capture and the other with
+monophonic pickup. The article discusses the design, implementation, acoustics,
+sound capture and processing of an active acoustic instrument, as well as
+gestural control using the Leap Motion sensor. Extensions towards other
+instruments are presented, in connection with related artistic projects and
+`electronic chamber music' aesthetics.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound, realsound
+
+~~
+
+@inproceedings{Normark2016,
+  author = {Normark, Carl J\''{u}rgen  and Peter Parnes and Robert Ek and Harald Andersson},
+  title = {The extended clarinet},
+  pages = {162--167},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.1176090},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0034.pdf},
+  abstract = {This paper describes how a classical instrument, the clarinet, can
+be extended with modern technology to create a new and easy to use augmented
+instrument. The paper describes the design process, technical details and how a
+musician can use the instrument. The clarinet bell is extended with sensor
+technology in order to improve the ways the clarinet is traditionally played and
+improve the performing artist's musical and performative expressions. New
+ways of performing music with a clarinet also opens up for novel ways of
+composing musical pieces. The design is iterated in two versions with improved
+hardware and form factor where everything is packaged into the clarinet bell. The
+clarinet uses electronics that wirelessly sends sensor data to a computer that
+processes a live audio feed via the software MAX 7 and plays it back via
+loudspeakers on the stage. The extended clarinet provides several ways of
+transforming audio and also adds several ways of making performances more
+visually interesting. It is shown that this way of using sensor technology in a
+traditional musical instrument adds new dimensions to the performance and allows
+creative persons to express themselves in new ways as well as giving the audience
+an improved experience. }
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Reid2016,
+  author = {Sarah Reid and Ryan Gaston and Colin Honigman and Ajay Kapur},
+  title = {Minimally Invasive Gesture Sensing Interface (MIGSI) for Trumpet},
+  pages = {419--424},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2016},
+  publisher = {Queensland Conservatorium Griffith University},
+  address = {Brisbane, Australia},
+  isbn = {978-1-925455-13-7},
+  issn = {2220-4806},
+  track = {Papers},
+  doi = {10.5281/zenodo.1176106},
+  url = {http://www.nime.org/proceedings/2016/nime2016_paper0082.pdf},
+  abstract = {This paper describes the design of a Minimally Invasive Gesture
+Sensing Interface (MIGSI) for trumpet. The interface attaches effortlessly to any
+B-flat or C trumpet and requires no permanent modifications to the
+host-instrument. It was designed first and foremost with accessibility in
+mind an approach that is uncommon in augmented instrument design and
+seeks to strike a balance between minimal design and robust control. MIGSI uses
+sensor technology to capture gestural data such as valve displacement, hand
+tension, and instrument position, to offer extended control and expressivity to
+trumpet players. Several streams of continuous data are transmitted wirelessly
+from MIGSI to the receiving computer, where MIGSI Mapping application (a simple
+graphical user interface) parses the incoming data into individually accessible
+variables. It is our hope that MIGSI will be adopted by trumpet players and
+composers, and that over time a new body of repertoire for the augmented trumpet
+will emerge.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound 
+
+~~
+
+2017 
+11 results / 6 relevant
+
+@inproceedings{aeldridge2017,
+  author = {Alice Eldridge and Chris Kiefer},
+  title = {Self-resonating Feedback Cello: Interfacing gestural and generative processes in improvised performance},
+  pages = {25--29},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176157},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0005.pdf},
+  abstract = {The Feedback Cello is a new electroacoustic actuated instrument in which feedback can be induced independently on each string. Built from retro-fitted acoustic cellos, the signals from electromagnetic pickups sitting under each string are passed to a speaker built into the back of the instrument and to transducers clamped in varying places across the instrument body.  Placement of acoustic and mechanical actuators on the resonant body of the cello mean that this simple analogue feedback system is capable of a wide range of complex self-resonating behaviours. This paper describes the motivations for building these instruments as both a physical extension to live coding practice and an electroacoustic augmentation of cello. The design and physical construction is outlined, and modes of performance described with reference to the first six months of performances and installations. Future developments and planned investigations are outlined.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound, realsound
+
+~~
+
+@inproceedings{fheller2017,
+  author = {Florian Heller and Irene Meying Cheung Ruiz and Jan Borchers},
+  title = {An Augmented Flute for Beginners},
+  pages = {34--37},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176161},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0007.pdf},
+  abstract = {Learning to play the transverse flute is not an easy task, at least not for everyone.  Since the flute does not have a reed to resonate, the player must provide a steady, focused stream of air that will cause the flute to resonate and thereby produce sound.  In order to achieve this, the player has to be aware of the embouchure position to generate an adequate air jet.  For a beginner, this can be a difficult task due to the lack of visual cues or indicators of the air jet and lips position.  This paper attempts to address this problem by presenting an augmented flute that can make the gestures related to the embouchure visible and measurable.  The augmented flute shows information about the area covered by the lower lip, estimates the lip hole shape based on noise analysis, and it shows graphically the air jet direction.  Additionally, the augmented flute provides directional and continuous feedback in real time, based on data acquired by experienced flutists.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{tdavis2017,
+  author = {Tom Davis},
+  title = {The Feral Cello: A Philosophically Informed Approach to an Actuated Instrument},
+  pages = {279--282},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176250},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0053.pdf},
+  abstract = {There have been many NIME papers over the years on augmented or actuated instruments [2][10][19][22].  Many of these papers have focused on the technical description of how these instruments have been produced, or as in the case of Machover's #8216;Hyperinstruments' [19], on producing instruments over which performers have &#8216;absolute control' and emphasise &#8216;learnability. perfectibility and repeatability' [19]. In contrast to this approach, this paper outlines a philosophical position concerning the relationship between instruments and performers in improvisational contexts that recognises the agency of the instrument within the performance process. It builds on a post-phenomenological understanding of the human/instrument relationship in which the human and the instrument are understood as co-defining entities without fixed boundaries; an approach that actively challenges notions of instrumental mastery and &#8216;absolute control'. This paper then takes a practice-based approach to outline how such philosophical concerns have fed into the design of an augmented, actuated cello system, The Feral Cello, that has been designed to explicitly explore these concerns through practice.  }
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, realsound
+
+~~
+
+@inproceedings{hchang2017,
+  author = {Herbert Ho-Chun Chang and Lloyd May and Spencer Topel},
+  title = {Nonlinear Acoustic Synthesis in Augmented Musical Instruments},
+  pages = {358--363},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176282},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0068.pdf},
+  abstract = {This paper discusses nonlinear acoustic synthesis in augmented musical instruments via acoustic transduction. Our work expands previous investigations into acoustic amplitude modulation, offering new prototypes that produce intermodulation in several instrumental contexts. Our results show nonlinear intermodulation distortion can be generated and controlled in electromagnetically driven acoustic interfaces that can be deployed in acoustic instruments through augmentation, thus extending the nonlinear acoustic synthesis to a broader range of sonic applications.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{togata2017,
+  author = {Takumi Ogata and Gil Weinberg},
+  title = {Robotically Augmented Electric Guitar for Shared Control},
+  pages = {487--488},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176326},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0092.pdf},
+  abstract = {This paper is about a novel robotic guitar that establishes shared control between human performers and mechanical actuators.  Unlike other mechatronic guitar instruments that perform pre-programmed music automatically, this guitar allows the human and actuators to produce sounds jointly; there exists a distributed control between the human and robotic components. The interaction allows human performers to have full control over the melodic, harmonic, and expressive elements of the instrument while mechanical actuators excite and dampen the string with a rhythmic pattern.  Guitarists can still access the fretboard without the physical interference of a mechatronic system, so they can play melodies and chords as well as perform bends, slides, vibrato, and other expressive techniques. Leveraging the capabilities of mechanical actuators, the mechanized hammers can output complex rhythms and speeds not attainable by humans. Furthermore, the rhythmic patterns can be algorithmically or stochastically generated by the hammer, which supports real-time interactive improvising.}
+}
+
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: realsound
+
+~~
+
+@inproceedings{jharrison2017,
+  author = {Jacob Harrison and Andrew McPherson},
+  title = {An Adapted Bass Guitar for One-Handed Playing},
+  pages = {507--508},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2017},
+  publisher = {Aalborg University Copenhagen},
+  address = {Copenhagen, Denmark},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1176346},
+  url = {http://www.nime.org/proceedings/2017/nime2017_paper0102.pdf},
+  abstract = {We present an attachment for the bass guitar which allows MIDI-controlled actuated fretting. This adapted instrument is presented as a potential method of augmenting the bass guitar for those with upper-limb disabilities. We conducted an online survey of 48 bassists in order to highlight the most important aspects of bass playing. We found that timbral and dynamic features related to the plucking hand were most important to the survey respondents. We designed an actuated fretting mechanism to replace the role of the fretting hand in order to preserve plucking hand techniques. We then conducted a performance study in which experienced bassists prepared and performed an accompaniment to a backing track with the adapted bass. The performances highlighted ways in which adapting a fretted string instrument in this way impacts plucking hand technique. }
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: realsound
+
+~~
+
+2018 
+14 results / 9 relevant
+
+@inproceedings{Champion2018,
+  author = {Cory Champion and Mo H Zareei},
+  title = {AM MODE: Using AM and FM Synthesis for Acoustic Drum Set Augmentation},
+  pages = {33--34},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302667},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0008.pdf},
+  abstract = {AM MODE is a custom-designed software interface for electronic augmentation of the acoustic drum set. The software is used in the development a series of recordings, similarly titled as AM MODE. Programmed in Max/MSP, the software uses live audio input from individual instruments within the drum set as control parameters for modulation synthesis. By using a combination of microphones and MIDI triggers, audio signal features such as the velocity of the strike of the drum, or the frequency at which the drum resonates, are tracked, interpolated, and scaled to user specifications. The resulting series of recordings is comprised of the digitally generated output of the modulation engine, in addition to both raw and modulated signals from the acoustic drum set. In this way, this project explores drum set augmentation not only at the input and from a performative angle, but also at the output, where the acoustic and the synthesized elements are merged into each other, forming a sonic hybrid.  }
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Macionis2018,
+  author = {McLean J Macionis and Ajay Kapur},
+  title = {Sansa: A Modified Sansula for Extended Compositional Techniques Using Machine Learning},
+  pages = {78--81},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302685},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0018.pdf},
+  abstract = {Sansa is an extended sansula, a hyper-instrument that is similar in design and functionality to a kalimba or thumb piano. At the heart of this interface is a series of sensors that are used to augment the tone and expand the performance capabilities of the instrument. The sensor data is further exploited using the machine learning program Wekinator, which gives users the ability to interact and perform with the instrument using several different modes of operation. In this way, Sansa is capable of both solo acoustic performances as well as complex productions that require interactions between multiple technological mediums. Sansa expands the current community of hyper-instruments by demonstrating the ways that hardware and software can extend an acoustic instrument's functionality and playability in a live performance or studio setting.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{Schramm2018,
+  author = {Rodrigo Schramm and Federico Visi and André Brasil and Marcelo O Johann},
+  title = {A polyphonic pitch tracking embedded system for rapid instrument augmentation},
+  pages = {120--125},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302650},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0027.pdf},
+  abstract = {This paper presents a system for easily augmenting polyphonic pitched instruments. The entire system is designed to run on a low-cost embedded computer, suitable for live performance and easy to customise for different use cases. The core of the system implements real-time spectrum factorisation, decomposing polyphonic audio input signals into music note activations. New instruments can be easily added to the system with the help of custom spectral template dictionaries. Instrument augmentation is achieved by replacing or mixing the instrument's original sounds with a large variety of synthetic or sampled sounds, which follow the polyphonic pitch activations.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Meneses2018,
+  author = {Eduardo Meneses and Sergio Freire and Marcelo Wanderley},
+  title = {GuitarAMI and GuiaRT: two independent yet complementary projects on augmented nylon guitars},
+  pages = {222--227},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302559},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0049.pdf},
+  abstract = {This paper describes two augmented nylon-string guitar projects developed in different institutions. GuitarAMI uses sensors to modify the classical guitars constraints while GuiaRT uses digital signal processing to create virtual guitarists that interact with the performer in real-time. After a bibliographic review of Augmented Musical Instruments (AMIs) based on guitars, we present the details of the two projects and compare them using an adapted dimensional space representation. Highlighting the complementarity and cross-influences between the projects, we propose avenues for future collaborative work.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{Gonzalez2018,
+  author = {Gonzalez Sanchez, Victor Evaristo and Martin, Charles Patrick  and Agata Zelechowska and Bjerkestrand, Kari Anne Vadstensvik  and Victoria Johnson and Jensenius, Alexander Refsum },
+  title = {Bela-Based Augmented Acoustic Guitars for Sonic Microinteraction},
+  pages = {324--327},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302599},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0068.pdf},
+  abstract = {This article describes the design and construction of a collection of digitally-controlled augmented acoustic guitars, and the use of these guitars in the installation Sverm-Resonans. The installation was built around the idea of exploring `inverse' sonic microinteraction, that is, controlling sounds by the micromotion observed when attempting to stand still. It consisted of six acoustic guitars, each equipped with a Bela embedded computer for sound processing (in Pure Data), an infrared distance sensor to detect the presence of users, and an actuator attached to the guitar body to produce sound. With an attached battery pack, the result was a set of completely autonomous instruments that were easy to hang in a gallery space. The installation encouraged explorations on the boundary between the tactile and the kinesthetic, the body and the mind, and between motion and sound. The use of guitars, albeit with an untraditional `performance' technique, made the experience both familiar and unfamiliar at the same time. Many users reported heightened sensations of stillness, sound, and vibration, and that the `inverse' control of the instrument was both challenging and pleasant.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Thorn2018,
+  author = {Seth Dominicus Thorn},
+  title = {Alto.Glove: New Techniques for Augmented Violin},
+  pages = {334--339},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302603},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0070.pdf},
+  abstract = {This paper describes a performer-centric approach to the design, sensor selection, data interpretation, and mapping schema of a sensor-embedded glove called the “alto.glove” that the author uses to extend his performance abilities on violin. The alto.glove is a response to the limitations—both creative and technical—perceived in feature extraction processes that rely on classification. The hardware answers one problem: how to extend violin playing in a minimal yet powerful way; the software answers another: how to create a rich, evolving response that enhances expression in improvisation. The author approaches this problem from the various roles of violinist, hardware technician, programmer, sound designer, composer, and improviser. Importantly, the alto.glove is designed to be cost-effective and relatively easy to build.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Liontiris2018,
+  author = {Liontiris, Thanos Polymeneas},
+  title = {Low Frequency Feedback Drones: A non-invasive augmentation of the double bass},
+  pages = {340--341},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302605},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0071.pdf},
+  abstract = {This paper illustrates the development of a Feedback Resonating Double Bass. The instrument is essentially the augmentation of an acoustic double bass using positive feedback. The research aimed to reply the question of how to augment and convert a double bass into a feedback resonating one without following an invasive method. The conversion process illustrated here is applicable and adaptable to double basses of any size, without making irreversible alterations to the instruments. }
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Snyder2018,
+  author = {Jeff Snyder and Michael R  Mulshine and Rajeev S Erramilli},
+  title = {The Feedback Trombone: Controlling Feedback in Brass Instruments},
+  pages = {374--379},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302629},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0083.pdf},
+  abstract = {This paper presents research on control of electronic signal feedback in brass instruments through the development of a new augmented musical instrument, the Feedback Trombone. The Feedback Trombone (FBT) extends the traditional acoustic trombone interface with a speaker, microphone, and custom analog and digital hardware. }
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{Leigh2018,
+  author = {Sang-won Leigh and Pattie Maes},
+  title = {Guitar Machine: Robotic Fretting Augmentation for Hybrid Human-Machine Guitar Play},
+  pages = {403--408},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Luke Dahl, Douglas Bowman, Thomas Martin},
+  year = {2018},
+  month = {June},
+  publisher = {Virginia Tech},
+  address = {Blacksburg, Virginia, USA},
+  isbn = {978-1-949373-99-8},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.1302643},
+  url = {http://www.nime.org/proceedings/2018/nime2018_paper0090.pdf},
+  abstract = {Playing musical instruments involves producing gradually more challenging body movements and transitions, where the kinematic constraints of the body play a crucial role in structuring the resulting music. We seek to make a bridge between currently accessible motor patterns, and musical possibilities beyond those --- afforded through the use of a robotic augmentation. Guitar Machine is a robotic device that presses on guitar strings and assists a musician by fretting alongside her on the same guitar. This paper discusses the design of the system, strategies for using the system to create novel musical patterns, and a user study that looks at the effects of the temporary acquisition of enhanced physical ability. Our results indicate that the proposed human-robot interaction would equip users to explore new musical avenues on the guitar, as well as provide an enhanced understanding of the task at hand on the basis of the robotically acquired ability. }
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: realsound
+
+~~
+
+2019 
+14 unique results / 9 relevant
+
+@inproceedings{Morreale2019,
+  author = {Fabio Morreale and Andrea Guidi and Andrew P. McPherson},
+  title = {Magpick: an Augmented Guitar Pick for Nuanced Control},
+  pages = {65--70},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672868},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper013.pdf},
+  abstract = {This paper introduces the Magpick, an augmented pick for electric guitar that uses electromagnetic induction to sense the motion of the pick with respect to the permanent magnets in the guitar pickup. The Magpick provides the guitarist with nuanced control of the sound which coexists with traditional plucking-hand technique. The paper presents three ways that the signal from the pick can modulate the guitar sound, followed by a case study of its use in which 11 guitarists tested the Magpick for five days and composed a piece with it. Reflecting on their comments and experiences, we outline the innovative features of this technology from the point of view of performance practice. In particular, compared to other augmentations, the high temporal resolution, low latency, and large dynamic range of the Magpick support a highly nuanced control over the sound. Our discussion highlights the utility of having the locus of augmentation coincide with the locus of interaction.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Brown2019,
+  author = {Hunter Brown and spencer topel},
+  title = {{DRMMR}: An Augmented Percussion Implement},
+  pages = {116--121},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672888},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper023.pdf},
+  abstract = {Recent developments in music technology have enabled novel timbres to be acoustically synthesized using various actuation and excitation methods. Utilizing recent work in nonlinear acoustic synthesis, we propose a transducer based augmented percussion implement entitled DRMMR. This design enables the user to sustain computer sequencer-like drum rolls at faster speeds while also enabling the user to achieve nonlinear acoustic synthesis effects. Our acoustic evaluation shows drum rolls executed by DRMMR easily exhibit greater levels of regularity, speed, and precision than comparable transducer and electromagnetic-based actuation methods. DRMMR's nonlinear acoustic synthesis functionality also presents possibilities for new kinds of sonic interactions on the surface of drum membranes.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: realsound
+
+~~
+
+@inproceedings{Meneses2019,
+  author = {Eduardo Meneses and Johnty Wang and Sergio Freire and Marcelo Wanderley},
+  title = {A Comparison of Open-Source Linux Frameworks for an Augmented Musical Instrument Implementation},
+  pages = {222--227},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672934},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper043.pdf},
+  abstract = {The increasing availability of accessible sensor technologies, single board computers, and prototyping platforms have resulted in a growing number of frameworks explicitly geared towards the design and construction of Digital and Augmented Musical Instruments. Developing such instruments can be facilitated by choosing the most suitable framework for each project. In the process of selecting a framework for implementing an augmented guitar instrument, we have tested three Linux-based open-source platforms that have been designed for real-time sensor interfacing, audio processing, and synthesis. Factors such as acquisition latency, workload measurements, documentation, and software implementation are compared and discussed to determine the suitability of each environment for our particular project.}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Reid2019,
+  author = {Sarah Reid and Ryan Gaston and Ajay Kapur},
+  title = {Perspectives on Time: performance practice, mapping strategies, \& composition with {MIGSI}},
+  pages = {234--239},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672940},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper045.pdf},
+  abstract = {This paper presents four years of development in performance and compositional practice on an electronically augmented trumpet called MIGSI. Discussion is focused on conceptual and technical approaches to data mapping, sonic interaction, and composition that are inspired by philosophical questions of time: what is now? Is time linear or multi-directional? Can we operate in multiple modes of temporal perception simultaneously? A number of mapping strategies are presented which explore these ideas through the manipulation of temporal separation between user input and sonic output. In addition to presenting technical progress, this paper will introduce a body of original repertoire composed for MIGSI, in order to illustrate how these tools and approaches have been utilized in live performance and how they may find use in other creative applications.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Pardue2019,
+  author = {Laurel Pardue and Kurijn Buys and Dan Overholt and Andrew P. McPherson and Michael Edinger},
+  title = {Separating sound from source: sonic transformation of the violin through electrodynamic pickups and acoustic actuation},
+  pages = {278--283},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672958},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper053.pdf},
+  abstract = {When designing an augmented acoustic instrument, it is often of interest to retain an instrument's sound quality and nuanced response while leveraging the richness of digital synthesis.  Digital audio has traditionally been generated through speakers, separating sound generation from the instrument itself, or by adding an actuator within the instrument's resonating body, imparting new sounds along with the original.  We offer a third option, isolating the playing interface from the actuated resonating body, allowing us to rewrite the relationship between performance action and sound result while retaining the general form and feel of the acoustic instrument.  We present a hybrid acoustic-electronic violin based on a stick-body electric violin and an electrodynamic polyphonic pick-up capturing individual string displacements.  A conventional violin body acts as the resonator, actuated using digitally altered audio of the string inputs.  By attaching the electric violin above the body with acoustic isolation, we retain the physical playing experience of a normal violin along with some of the acoustic filtering and radiation of a traditional build.  We propose the use of the hybrid instrument with digitally automated pitch and tone correction to make an easy violin for use as a potential motivational tool for beginning violinists.}
+}
+
+Performer type: solo 
+Instrument type: acoustic, electronic 
+Augmentation type: electronicsound, realsound
+
+~~
+
+@inproceedings{Paisa2019,
+  author = {Razvan Paisa and Dan Overholt},
+  title = {Enhancing the Expressivity of the Sensel Morph via Audio-rate Sensing},
+  pages = {298--302},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672968},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper057.pdf},
+  abstract = {This project describes a novel approach to hybrid electro-acoustical instruments by augmenting the Sensel Morph, with real-time audio sensing capabilities. The actual action-sounds are captured with a piezoelectric transducer and processed in Max 8 to extend the sonic range existing in the acoustical domain alone. The control parameters are captured by the Morph and mapped to audio algorithm proprieties like filter cutoff frequency, frequency shift or overdrive. The instrument opens up the possibility for a large selection of different interaction techniques that have a direct impact on the output sound. The instrument is evaluated from a sound designer's perspective, encouraging exploration in the materials used as well as techniques. The contribution are two-fold. First, the use of a piezo transducer to augment the Sensel Morph affords an extra dimension of control on top of the offerings. Second, the use of acoustic sounds from physical interactions as a source for excitation and manipulation of an audio processing system offers a large variety of new sounds to be discovered. The methodology involved an exploratory process of iterative instrument making, interspersed with observations gathered via improvisatory trials, focusing on the new interactions made possible through the fusion of audio-rate inputs with the Morph's default interaction methods.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{Jaramillo2019,
+  author = {Julian Jaramillo and Fernando Iazzetta},
+  title = {{PICO}: A portable audio effect box for traditional plucked-string instruments},
+  pages = {355--360},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672992},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper068.pdf},
+  abstract = {This paper reports the conception, design, implementation and evaluation processes of PICO, a portable audio effect system created with Pure Data and the Raspberry Pi, which augments traditional plucked string instruments such as the Brazilian Cavaquinho, the Venezuelan Cuatro, the Colombian Tiple and the Peruvian/Bolivian Charango. A fabric soft case fixed to the instrument`s body holds the PICO modules: the touchscreen, the single board computer, the sound card, the speaker system and the DC power bank. The device audio specifications arose from musicological insights about the social role of performers in their musical contexts and the instruments' playing techniques. They were taken as design challenges in the creation process of PICO`s first prototype, which was submitted to a short evaluation. Along with the construction of PICO, we reflected over the design of an interactive audio interface as a mode of research. Therefore, the paper will also discuss methodological aspects of audio hardware design.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{RamosFlores2019,
+  author = {Cristohper Ramos Flores and Jim Murphy and Michael Norris},
+  title = {HypeSax: Saxophone acoustic augmentation},
+  pages = {365--370},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3672996},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper070.pdf},
+  abstract = {New interfaces allow performers to access new possibilities of musical expression. Even though interfaces are often designed to be adaptable to different software, most of them rely on external speakers or similar transducers. This often results on disembodiment and acoustic disengagement from the interface, and in the case of augmented instruments, from the instruments themselves. This paper describes a project in which a hybrid system allows an acoustic integration between the sound of acoustic saxophone and electronics.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{Leigh2019,
+  author = {Sang-won Leigh and Abhinandan Jain and Pattie Maes},
+  title = {Exploring Human-Machine Synergy and Interaction on a Robotic Instrument},
+  pages = {437--442},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Marcelo Queiroz and Anna Xambó Sedó},
+  year = {2019},
+  month = {June},
+  publisher = {UFRGS},
+  address = {Porto Alegre, Brazil},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.3673027},
+  url = {http://www.nime.org/proceedings/2019/nime2019_paper086.pdf},
+  abstract = {This paper introduces studies conducted with musicians that aim to understand modes of human-robot interaction, situated between automation and human augmentation. Our robotic guitar system used for the study consists of various sound generating mechanisms, either driven by software or by a musician directly. The control mechanism allows the musician to have a varying degree of agency over the overall musical direction. We present interviews and discussions on open-ended experiments conducted with music students and musicians. The outcome of this research includes new modes of playing the guitar given the robotic capabilities, and an understanding of how automation can be integrated into instrument-playing processes. The results present insights into how a human-machine hybrid system can increase the efficacy of training or exploration, without compromising human engagement with a task.}
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound, realsound
+
+~~
+
+2020 
+11 results / 5 relevant
+
+@inproceedings{NIME20_32,
+  author = {Ko, Chantelle L and Oehlberg, Lora},
+  title = {Touch Responsive Augmented Violin Interface System II: Integrating Sensors into a 3D Printed Fingerboard},
+  pages = {166--171},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Romain Michon and Franziska Schroeder},
+  year = {2020},
+  month = {July},
+  publisher = {Birmingham City University},
+  address = {Birmingham, UK},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.4813300},
+  url = {https://www.nime.org/proceedings/2020/nime2020_paper32.pdf},
+  presentation-video = {https://youtu.be/XIAd_dr9PHE},
+  abstract = {We present TRAVIS II, an augmented acoustic violin with touch sensors integrated into its 3D printed fingerboard that track left-hand finger gestures in real time. The fingerboard has four strips of conductive PLA filament which produce an electric signal when fingers press down on each string. While these sensors are physically robust, they are mechanically assembled and thus easy to replace if damaged. The performer can also trigger presets via four FSRs attached to the body of the violin. The instrument is completely wireless, giving the performer the freedom to move throughout the performance space. While the sensing fingerboard is installed in place of the traditional fingerboard, all other electronics can be removed from the augmented instrument, maintaining the aesthetics of a traditional violin. Our design allows violinists to naturally create music for interactive performance and improvisation without requiring new instrumental techniques. In this paper, we describe the design of the instrument, experiments leading to the sensing fingerboard, and performative applications of the instrument.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{NIME20_42,
+  author = {Melbye, Adam Pultz and Ulfarsson, Halldor A},
+  title = {Sculpting the behaviour of the Feedback-Actuated Augmented Bass: Design strategies for subtle manipulations of string feedback using simple adaptive algorithms},
+  pages = {221--226},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Romain Michon and Franziska Schroeder},
+  year = {2020},
+  month = {July},
+  publisher = {Birmingham City University},
+  address = {Birmingham, UK},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.4813328},
+  url = {https://www.nime.org/proceedings/2020/nime2020_paper42.pdf},
+  presentation-video = {https://youtu.be/jXePge1MS8A},
+  abstract = {This paper describes physical and digital design strategies for the Feedback-Actuated Augmented Bass - a self-contained feedback double bass with embedded DSP capabilities. A primary goal of the research project is to create an instrument that responds well to the use of extended playing techniques and can manifest complex harmonic spectra while retaining the feel and sonic 
+fingerprint of an acoustic double bass. While the physical con
+figuration of the instrument builds on similar feedback string instruments being developed in recent years, this project focuses on modifying the feedback behaviour through low-level audio feature extractions coupled to computationally lightweight 
+filtering and amplitude management algorithms. We discuss these adaptive and time-variant processing strategies and how we apply them in sculpting the system's dynamic and complex behaviour to our liking.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: realsound
+
+~~
+
+@inproceedings{NIME20_80,
+  author = {Santini, Giovanni },
+  title = {Augmented Piano in Augmented Reality},
+  pages = {411--415},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Romain Michon and Franziska Schroeder},
+  year = {2020},
+  month = {July},
+  publisher = {Birmingham City University},
+  address = {Birmingham, UK},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.4813449},
+  url = {https://www.nime.org/proceedings/2020/nime2020_paper80.pdf},
+  presentation-video = {https://youtu.be/3HBWvKj2cqc},
+  abstract = {Augmented instruments have been a widely explored research topic since the late 80s. The possibility to use sensors for providing an input for sound processing/synthesis units let composers and sound artist open up new ways for experimentation. Augmented Reality, by rendering virtual objects in the real world and by making those objects interactive (via some sensor-generated input), provides a new frame for this research field. In fact, the 3D visual feedback, delivering a precise indication of the spatial configuration/function of each virtual interface, can make the instrumental augmentation process more intuitive for the interpreter and more resourceful for a composer/creator: interfaces can change their behavior over time, can be reshaped, activated or deactivated. Each of these modifications can be made obvious to the performer by using strategies of visual feedback. In addition, it is possible to accurately sample space and to map it with differentiated functions. Augmenting interfaces can also be considered a visual expressive tool for the audience and designed accordingly: the performer’s point of view (or another point of view provided by an external camera) can be mirrored to a projector. This article will show some example of different designs of AR piano augmentation from the composition Studi sulla realtà nuova.}
+}
+
+Performer type: solo
+Instrument type: acoustic
+Augmentation type: electronicsound, visual
+
+~~
+
+@inproceedings{NIME20_85,
+  author = {Martelloni, Andrea and McPherson, Andrew and Barthet, Mathieu},
+  title = {Percussive Fingerstyle Guitar through the Lens of NIME: an Interview Study},
+  pages = {440--445},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Romain Michon and Franziska Schroeder},
+  year = {2020},
+  month = {July},
+  publisher = {Birmingham City University},
+  address = {Birmingham, UK},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.4813463},
+  url = {https://www.nime.org/proceedings/2020/nime2020_paper85.pdf},
+  presentation-video = {https://youtu.be/ON8ckEBcQ98},
+  abstract = {Percussive fingerstyle is a playing technique adopted by many contemporary acoustic guitarists, and it has grown substantially in popularity over the last decade. Its foundations lie in the use of the guitar's body for percussive lines, and in the extended range given by the novel use of altered tunings. There are very few formal accounts of percussive fingerstyle, therefore, we devised an interview study to investigate its approach to composition, performance and musical experimentation. Our aim was to gain insight into the technique from a gesture-based point of view, observe whether modern fingerstyle shares similarities to the approaches in NIME practice and investigate possible avenues for guitar augmentations inspired by the percussive technique. We conducted an inductive thematic analysis on the transcribed interviews: our findings highlight the participants' material-based approach to musical interaction and we present a three-zone model of the most common percussive gestures on the guitar's body. Furthermore, we examine current trends in Digital Musical Instruments, especially in guitar augmentation, and we discuss possible future directions in augmented guitars in light of the interviewees' perspectives.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound, realsound 
+
+~~
+
+@inproceedings{NIME20_88,
+  author = {Reed, Courtney and McPherson, Andrew},
+  title = {Surface Electromyography for Direct Vocal Control},
+  pages = {458--463},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {Romain Michon and Franziska Schroeder},
+  year = {2020},
+  month = {July},
+  publisher = {Birmingham City University},
+  address = {Birmingham, UK},
+  issn = {2220-4806},
+  doi = {10.5281/zenodo.4813475},
+  url = {https://www.nime.org/proceedings/2020/nime2020_paper88.pdf},
+  presentation-video = {https://youtu.be/1nWLgQGNh0g},
+  abstract = {This paper introduces a new method for direct control using the voice via measurement of vocal muscular activation with surface electromyography (sEMG). Digital musical interfaces based on the voice have typically used indirect control, in which features extracted from audio signals control the parameters of sound generation, for example in audio to MIDI controllers. By contrast, focusing on the musculature of the singing voice allows direct muscular control, or alternatively, combined direct and indirect control in an augmented vocal instrument. In this way we aim to both preserve the intimate relationship a vocalist has with their instrument and key timbral and stylistic characteristics of the voice while expanding its sonic capabilities. This paper discusses other digital instruments which effectively utilise a combination of indirect and direct control as well as a history of controllers involving the voice. Subsequently, a new method of direct control from physiological aspects of singing through sEMG and its capabilities are discussed. Future developments of the system are further outlined along with usage in performance studies, interactive live vocal performance, and educational and practice tools.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: electronicsound 
+
+~~
+
+2021 
+7 results / 4 relevant
+
+@inproceedings{NIME21_15,
+  author = {Chin, Daniel and Zhang, Ian and Xia, Gus},
+  title = {Hyper-hybrid Flute: Simulating and Augmenting How Breath Affects Octave and Microtone},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2021},
+  month = {June},
+  address = {Shanghai, China},
+  issn = {2220-4806},
+  articleno = {15},
+  doi = {10.21428/92fbeb44.c09d91be},
+  url = {https://nime.pubpub.org/pub/eshr},
+  presentation-video = {https://youtu.be/UIqsYK9F4xo},
+  abstract = {We present hyper-hybrid flute, a new interface which can be toggled between its electronic mode and its acoustic mode. In its acoustic mode, the interface is identical to the regular six-hole recorder. In its electronic mode, the interface detects the player's fingering and breath velocity and translates them to MIDI messages. Specifically, it maps higher breath velocity to higher octaves, with the modulo remainder controlling the microtonal pitch bend. This novel mapping reproduces a highly realistic flute-playing experience. Furthermore, changing the parameters easily augments the interface into a hyperinstrument that allows the player to control microtones more expressively via breathing techniques.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{NIME21_32,
+  author = {Martelloni, Andrea and McPherson, Andrew and Barthet, Mathieu},
+  title = {Guitar augmentation for Percussive Fingerstyle: Combining self-reflexive practice and user-centred design},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2021},
+  month = {June},
+  address = {Shanghai, China},
+  issn = {2220-4806},
+  articleno = {32},
+  doi = {10.21428/92fbeb44.2f6db6e6},
+  url = {https://nime.pubpub.org/pub/zgj85mzv},
+  presentation-video = {https://youtu.be/qeX6dUrJURY},
+  abstract = {What is the relationship between a musician-designer's auditory imagery for a musical piece, a design idea for an augmented instrument to support the realisation of that piece, and the aspiration to introduce the resulting instrument to a community of like-minded performers? We explore this NIME topic in the context of building the first iteration of an augmented acoustic guitar prototype for percussive fingerstyle guitarists. The first author, himself a percussive fingerstyle player, started the project of an augmented guitar with expectations and assumptions made around his own playing style, and in particular around the arrangement of one song. This input was complemented by the outcome of an interview study, in which percussive guitarists highlighted functional and creative requirements to suit their needs. We ran a pilot study to assess the resulting prototype, involving two other players. We present their feedback on two configurations of the prototype, one equalising the signal of surface sensors and the other based on sample triggering. The equalisation-based setting was better received, however both participants provided useful suggestions to improve the sample-triggering model following their own auditory imagery.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{NIME21_44,
+  author = {Thompson, William and Berdahl, Edgar},
+  title = {An Infinitely Sustaining Piano Achieved Through a Soundboard-Mounted Shaker  },
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2021},
+  month = {June},
+  address = {Shanghai, China},
+  issn = {2220-4806},
+  articleno = {44},
+  doi = {10.21428/92fbeb44.2c4879f5},
+  url = {https://nime.pubpub.org/pub/cde9r70r},
+  presentation-video = {https://youtu.be/YRby0VdL8Nk},
+  abstract = {This paper outlines a demonstration of an acoustic piano augmentation that allows for infinite sustain of one or many notes. The result is a natural sounding piano sustain that lasts for an unnatural period of time. Using a tactile shaker, a contact microphone and an amplitude activated FFT-freeze Max patch, this system is easily assembled and creates an infinitely sustaining piano.}
+}
+
+Performer type: solo 
+Instrument type: acoustic
+Augmentation type: electronicsound
+
+~~
+
+@inproceedings{NIME21_52,
+  author = {Portovedo, Henrique and Lopes, Paulo Ferreira and Mendes, Ricardo and Gala, Tiago},
+  title = {HASGS: Five Years of Reduced Augmented Evolution},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year = {2021},
+  month = {June},
+  address = {Shanghai, China},
+  issn = {2220-4806},
+  articleno = {52},
+  doi = {10.21428/92fbeb44.643abd8c},
+  url = {https://nime.pubpub.org/pub/1293exfw},
+  presentation-video = {https://youtu.be/wRygkMgx2Oc},
+  abstract = {The work presented here is based on the Hybrid Augmented Saxophone of Gestural Symbioses (HASGS) system with a focus on and its evolution over the last five years, and an emphasis on its functional structure and the repertoire. The HASGS system was intended to retain focus on the performance of the acoustic instrument, keeping gestures centralised within the habitual practice of the instrument, and reducing the use of external devices to control electronic parameters in mixed music. Taking a reduced approach, the technology chosen to prototype HASGS was developed in order to serve the aesthetic intentions of the pieces being written for it. This strategy proved to avoid an overload of solutions that could bring artefacts and superficial use of the augmentation processes, which sometimes occur on augmented instruments, specially prototyped for improvisational intentionality. Here, we discuss how the repertoire, hardware, and software of the system can be mutually affected by this approach. We understand this project as an empirically-based study which can both serve as a model for analysis, as well provide composers and performers with pathways and creative strategies for the development of augmentation processes.}
+}
+
+Performer type: solo
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+2022 
+9 results / 3 relevant
+
+@inproceedings{NIME22_1,
+ PDF = {101.pdf},
+ abstract = {This paper discusses a quantitative method to evaluate whether an expert player is able to execute skilled actions on an unfamiliar interface while keeping the focus of their performance on the musical outcome rather than on the technology itself. In our study, twelve professional electric guitar players used an augmented plectrum to replicate prerecorded timbre variations in a set of musical excerpts. The task was undertaken in two experimental conditions: a reference condition, and a subtle gradual change in the sensitivity of the augmented plectrum which is designed to affect the guitarist’s performance without making them consciously aware of its effect. We propose that players’ subconscious response to the disruption of changing the sensitivity, as well as their overall ability to replicate the stimuli, may indicate the strength of the relationship they developed with the new interface. The case study presented in this paper highlights the strengths and limitations of this method.},
+ address = {The University of Auckland, New Zealand},
+ articleno = {1},
+ author = {Guidi, Andrea and McPherson, Andrew},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.21428/92fbeb44.79d0b38f},
+ issn = {2220-4806},
+ month = {jun},
+ presentation-video = {https://youtu.be/J4981qsq_7c},
+ title = {Quantitative evaluation of aspects of embodiment in new digital musical instruments},
+ url = {https://doi.org/10.21428%2F92fbeb44.79d0b38f},
+ year = {2022}
+}
+
+Performer type: solo 
+Instrument type: electric
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{NIME22_14,
+ PDF = {126.pdf},
+ abstract = {In a search for a symbiotic relationship between the digital and physical worlds, I am developing a hybrid, digital-acoustic wind instrument - the Post-Digital Sax. As the name implies, the instrument combines the advantages and flexibility of digital control with a hands-on physical interface and a non-orthodox means of sound production, in which the airflow, supplied by the player’s lungs, is the actual sound source. The pitch, however, is controlled digitally, allowing a wide range of musical material manipulation, bringing the possibilities of a digitally augmented performance into the realm of acoustic sound.},
+ address = {The University of Auckland, New Zealand},
+ articleno = {14},
+ author = {Cybulski, Krzysztof},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.21428/92fbeb44.756616d4},
+ issn = {2220-4806},
+ month = {jun},
+ presentation-video = {https://youtu.be/RnuEvjMdEj4},
+ title = {Post-digital sax - a digitally controlled acoustic single-reed woodwind instrument},
+ url = {https://doi.org/10.21428%2F92fbeb44.756616d4},
+ year = {2022}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound 
+
+~~
+
+@inproceedings{NIME22_43,
+ PDF = {54.pdf},
+ abstract = {The mubone (lowercase “m”) is a family of instruments descended from the trombone family, a conceptual design space for trombone augmentations, and a growing musical practice rooted in this design space and the artistic affordances that emerge from it. We present the design of the mubone and discuss our initial implementations. We then reflect on the beginnings of an artistic practice: playing mubone, as well as exploring how the instrument adapts to diverse creative contexts. We discuss mappings, musical exercises, and the development of Garcia, a sound-and-movement composition for mubone.},
+ address = {The University of Auckland, New Zealand},
+ articleno = {43},
+ author = {West, Travis and Leung, Kalun},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.21428/92fbeb44.e56a93c9},
+ issn = {2220-4806},
+ month = {jun},
+ presentation-video = {https://youtu.be/B51eofO4f4Y},
+ title = {early prototypes and artistic practice with the mubone},
+ url = {https://doi.org/10.21428%2F92fbeb44.e56a93c9},
+ year = {2022}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+2023 
+9 results / 4 relevant
+
+@article{nime2023_24,
+  author = {Claudio Panariello and Chiara Percivati},
+  title = {“WYPYM”: A Study for Feedback-Augmented Bass Clarinet},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {},
+  year = {2023},
+  month = {May},
+  address = {Mexico City, Mexico},
+  issn = {2220-4806},
+  url = {http://www.nime.org/proceedings/2023/nime2023_24.pdf},
+  articleno = {24},
+  track = {A-Papers},
+  abstract = {This paper explores the concept of co-creativity in a performance for feedback-augmented bass clarinet. The bass clarinet is augmented using a loudspeaker placed on the bell and a supercardiod microphone placed inside the instrument's body, allowing for the generation of feedback that is subsequently processed by a computational system to create new sound material. This feedback loop creates a symbiotic relationship between the performer and the electronics, resulting in the co-creation of the final piece, with the performer and the electronics influencing each other. The result is a unique and ever-evolving musical experience that poses interesting challenges to the traditional instrument--electronics and composer--opera relationship. This paper reports on both the hardware and software augmentation of the bass clarinet, and presents "WYPYM - Were you a part of your mother?", a piece written especially for this augmented instrument and its feedback system.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@article{nime2023_36,
+  author = {Erik Stifjell},
+  title = {A FLexible musical instrument Augmentation that is Programmable, Integrated in a Box (FLAPIBox)},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {},
+  year = {2023},
+  month = {May},
+  address = {Mexico City, Mexico},
+  issn = {2220-4806},
+  url = {http://www.nime.org/proceedings/2023/nime2023_36.pdf},
+  articleno = {36},
+  track = {A-Papers},
+  abstract = {Most musical instrument augmentations aim to only fit one specific instrument and depend on an external sound system to work as intended. In a more acoustic concert setting this often alienates the electronic sound component. The FLAPIBox is an integrated solution that fits most acoustic instruments and use its own resonance for playing electronic sound in a more organic way—through the instrument itself. Reviewing related works and exploring different hardware and software components, a modular prototype has been built. The results of this preliminary study make the body of planning and building the first integrated breadboard prototype. Because of its flexible design, the FLAPIBox can use several different microphone, and loudspeaker technologies. Using inexpensive components and developing open-source software, the FLAPIBox is both affordable and accessible. The development of the FLAPIBox aim to result in a stable and predictable platform, yet open and versatile enough for further development.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound
+
+~~
+
+@article{nime2023_42,
+  author = {Matthew Goodheart},
+  title = {Reembodied Sound and Transducer-actuated Instruments in Refraction Interlude},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {},
+  year = {2023},
+  month = {May},
+  address = {Mexico City, Mexico},
+  issn = {2220-4806},
+  url = {http://www.nime.org/proceedings/2023/nime2023_42.pdf},
+  articleno = {42},
+  track = {A-Papers},
+  abstract = {“Reembodied sound” refers to the electroacoustic practice of projecting sound into resonating objects, thereby turning these objects into a kind of speaker. The practice, which typically uses an audio transducer attached to the surface of the object being resonated, lies in a middle-ground between loudspeaker-based music and augmented/actuated instruments, allowing practitioners to draw upon and fuse multiple paradigms of new and emerging technologies. This article examines Refraction Interlude, an interactive environment for solo performer and transducer-actuated metal percussion instruments. Building on a decade of reembodied sound research, the work combines augmented and actuated instruments, physical modeling, pre-recorded performer input, interactivity, and sound spatialization in a manner that facilitates adaptability to performer creativity and to the acoustic properties of the actuated instruments. The computational processes were minimized, designed to forefront the interaction and integration between these multiple domains.}
+}
+
+Performer type: solo 
+Instrument type: acoustic 
+Augmentation type: electronicsound, acousticsound
+
+~~
+
+@article{nime2023_61,
+  author = {Adan L. Benito Temprano and Teodoro Dannemann and Andrew McPherson},
+  title = {Exploring the (un)ambiguous guitar: A Qualitative Study on the use of Gesture Disambiguation in Augmented Instrument Design},
+  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  editor = {},
+  year = {2023},
+  month = {May},
+  address = {Mexico City, Mexico},
+  issn = {2220-4806},
+  url = {http://www.nime.org/proceedings/2023/nime2023_61.pdf},
+  articleno = {61},
+  track = {A-Papers},
+  abstract = {Some of the performer’s gestures, despite corresponding to different physical interactions, might produce a similar sonic output. This is the case of upward and downward string bends on the guitar where stretching the string shifts the pitch upwards. Bending represents  
+an expressive resource that extends across many different styles of guitar playing. 
+In this study, we presented performers with an augmented electric guitar on which the gesture-to-sound relationship of downward bending gestures is changed depending on how the instrument is configured. Participants were asked to explore and perform a short improvisation under three different conditions, two augmentations that correspond to different auditory imagery and a constrained scenario. The different sessions of the experiment were recorded to conduct thematic analysis as an examination of how gestural disambiguation can be exploited in the design of augmentations that focus on reusing performer's expertise and how the gesture-to-sound entanglement of the different modalities supports or encumbers the performer's embodied relationship with the instrument.}
+}
+
+Performer type: solo
+Instrument type: electric
+Augmentation type: electronicsound
+
+~~
+
+End
